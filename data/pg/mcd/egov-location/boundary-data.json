@@ -1,0 +1,1017 @@
+{
+  "tenantId": "pg.mcd",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary":
+      {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Municipal Corporation of Delhi",
+        "localname": "Municipal Corporation of Delhi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.mcd",
+        "children": [
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 1,
+            "name": "MCD HQ",
+            "localname": "MCD HQ",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "HQZ",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [143001],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 2,
+            "name": "Central Zone",
+            "localname": "Central Zone",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "CZ",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [143001],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 3,
+            "name": "City-SP Zone",
+            "localname": "City-SP Zone",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "CSPZ",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [143001],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 4,
+            "name": "Civil Lines Zone",
+            "localname": "Civil lines Zone",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "CLZ",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_3",
+                "localname": "WARD_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [143001],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 5,
+            "name": "Karol Bagh",
+            "localname": "Karol Bagh",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "KBZ",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_4",
+                "localname": "WARD_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [143001],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 6,
+            "name": "Keshavpuram",
+            "localname": "Keshavpuram",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "KPZ",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_5",
+                "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [143001],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 7,
+            "name": "Najafgarh Zone",
+            "localname": "Najafgarh Zone",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "NGZ",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_6",
+                "localname": "WARD_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [143001],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 8,
+            "name": "Narela Zone",
+            "localname": "Narela Zone",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "NZ",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_7",
+                "localname": "WARD_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [143001],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 9,
+            "name": "North Shahdara Zone",
+            "localname": "North Shahdara Zone",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "NSZ",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_8",
+                "localname": "WARD_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [143001],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 10,
+            "name": "Rohini Zone",
+            "localname": "Rohini Zone",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "RZ",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_9",
+                "localname": "WARD_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [143001],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 11,
+            "name": "South Shahdara Zone",
+            "localname": "South Shahdara Zone",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "SSZ",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_10",
+                "localname": "WARD_10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [143001],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 12,
+            "name": "South Zone",
+            "localname": "South Zone",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "SZ",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_11",
+                "localname": "WARD_11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [143001],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 13,
+            "name": "West Zone",
+            "localname": "West Zone",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "WZ",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [143001],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "boundaryNum": 1,
+            "name": "HQ",
+            "localname": "HQ",
+            "longitude": null,
+            "latitude": null,
+            "label": "HQ",
+            "code": "OTH1",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary":
+      {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Municipal Corporation of Delhi",
+        "localname": "Municipal Corporation of Delhi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.mcd",
+        "children": [
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 1,
+            "name": "MCD HQ",
+            "localname": "MCD HQ",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "HQZ",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [143001],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 2,
+            "name": "Central Zone",
+            "localname": "Central Zone",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "CZ",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [143001],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 3,
+            "name": "City-SP Zone",
+            "localname": "City-SP Zone",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "CSPZ",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [143001],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 4,
+            "name": "Civil Lines Zone",
+            "localname": "Civil lines Zone",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "CLZ",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_3",
+                "localname": "WARD_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [143001],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 5,
+            "name": "Karol Bagh",
+            "localname": "Karol Bagh",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "KBZ",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_4",
+                "localname": "WARD_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [143001],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 6,
+            "name": "Keshavpuram",
+            "localname": "Keshavpuram",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "KPZ",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_5",
+                "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [143001],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 7,
+            "name": "Najafgarh Zone",
+            "localname": "Najafgarh Zone",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "NGZ",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_6",
+                "localname": "WARD_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [143001],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 8,
+            "name": "Narela Zone",
+            "localname": "Narela Zone",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "NZ",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_7",
+                "localname": "WARD_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [143001],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 9,
+            "name": "North Shahdara Zone",
+            "localname": "North Shahdara Zone",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "NSZ",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_8",
+                "localname": "WARD_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [143001],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 10,
+            "name": "Rohini Zone",
+            "localname": "Rohini Zone",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "RZ",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_9",
+                "localname": "WARD_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [143001],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 11,
+            "name": "South Shahdara Zone",
+            "localname": "South Shahdara Zone",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "SSZ",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_10",
+                "localname": "WARD_10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [143001],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 12,
+            "name": "South Zone",
+            "localname": "South Zone",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "SZ",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_11",
+                "localname": "WARD_11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [143001],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 13,
+            "name": "West Zone",
+            "localname": "West Zone",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "WZ",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [143001],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
