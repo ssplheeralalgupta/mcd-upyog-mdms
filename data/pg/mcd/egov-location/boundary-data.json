@@ -11,8 +11,8 @@
       {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Municipal Corporation of Delhi",
-        "localname": "Municipal Corporation of Delhi",
+        "name": "Delhi",
+        "localname": "MCD",
         "longitude": null,
         "latitude": null,
         "label": "City",
@@ -522,8 +522,8 @@
       {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Municipal Corporation of Delhi",
-        "localname": "Municipal Corporation of Delhi",
+        "name": "Delhi",
+        "localname": "MCD",
         "longitude": null,
         "latitude": null,
         "label": "City",
