@@ -40,7 +40,7 @@
       "name": "Delhi",
       "description": null,
       "pincode": [143006,143007,143008,143009,143010],
-      "logoId": "https://mcd-asset.s3.ap-south-1.amazonaws.com/MCD-Logo.jpeg",
+      "logoId": "https://mcd-asset.s3.ap-south-1.amazonaws.com/Logo.png",
       "imageId": null,
       "domainUrl": "https://mcdupyog.sparrowsoftech.in",
       "type": "CITY",
