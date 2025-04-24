@@ -87,20 +87,6 @@
       ]
     },
     {
-      "module": "MCollect",
-      "code": "MCollect",
-      "active": true,
-      "order":1,
-      "tenants": [
-        {
-          "code": "pg.citya"
-        },
-        {
-          "code": "pg.mcd"
-        }
-      ]
-    },
-    {
       "module": "HRMS",
       "code": "HRMS",
       "active": true,
@@ -119,35 +105,6 @@
       "code": "NDSS",
       "active": true,
       "order":5,
-      "tenants": [
-        {
-          "code": "pg.citya"
-        },
-        {
-          "code": "pg.mcd"
-        }
-      ]
-    },
-    {
-      "module": "BillAmendment",
-      "code": "BillAmendment",
-      "active": true,
-      "order": 1,
-      "tenants": [
-        {
-          "code": "pg.citya"
-        },
-        {
-          "code": "pg.mcd"
-        }
-      ]
-    },
-    {
-      "module": "Bills",
-      "code": "Bills",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/Bill.png",
-      "active": true,
-      "order": 3,
       "tenants": [
         {
           "code": "pg.citya"
