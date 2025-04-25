@@ -4981,7 +4981,7 @@
       "navigationURL": "services/EGF/workorder/newform",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Work Order.Create Work Order"
+      "path": "Finance.Expenditure Accounting.Work Order.Create Work Order"
     },
     {
       "id": 1732,
