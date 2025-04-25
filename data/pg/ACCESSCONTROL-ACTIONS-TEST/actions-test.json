@@ -3414,7 +3414,7 @@
       "serviceCode": "FinanceAdmin",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Administration.Cancel Voucher",
+      "path": "Finance.General.Cancel Voucher",
       "navigationURL": "services/EGF/voucher/cancelVoucher-beforeSearch.action"
     },
     {
@@ -3456,7 +3456,7 @@
       "serviceCode": "FinanceBill",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Journal Voucher",
+      "path": "Finance.Journal Voucher",
       "navigationURL": "services/EGF/voucher/journalVoucher-newForm.action"
     },
     {
@@ -3498,7 +3498,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Accounting Records.Bank book",
+      "path": "Finance.Report Generation.Accounting Records.Bank book",
       "navigationURL": "services/EGF/report/bankBookReport.action"
     },
     {
@@ -3512,7 +3512,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.MIS Reports.Cheque Issue Register",
+      "path": "Finance.Report Generation.MIS Reports.Cheque Issue Register",
       "navigationURL": "services/EGF/report/chequeIssueRegisterReport.action"
     },
     {
@@ -3694,7 +3694,7 @@
       "serviceCode": "FinanceGeneral",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.View Vouchers",
+      "path": "Finance.General.View Vouchers",
       "navigationURL": "services/EGF/voucher/voucherSearch-beforesearch.action"
     },
     {
@@ -3890,7 +3890,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Accounting Records.Trial Balance",
+      "path": "Finance.Report Generation.Accounting Records.Trial Balance",
       "navigationURL": "services/EGF/report/trialBalance-newForm.action"
     },
     {
@@ -3988,7 +3988,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Accounting Records.General Ledger",
+      "path": "Finance.Report Generation.Accounting Records.General Ledger",
       "navigationURL": "services/EGF/report/generalLedgerReport-newForm.action"
     },
     {
@@ -4002,7 +4002,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Accounting Records.Subledger Schedule",
+      "path": "Finance.Report Generation.Accounting Records.Subledger Schedule",
       "navigationURL": "services/EGF/report/subLedgerScheduleReport-newForm.action"
     },
     {
@@ -4016,7 +4016,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Accounting Records.Sub Ledger",
+      "path": "Finance.Report Generation.Accounting Records.Sub Ledger",
       "navigationURL": "services/EGF/report/subLedgerReport-newForm.action"
     },
     {
@@ -4030,7 +4030,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Accounting Records.Day Book",
+      "path": "Finance.Report Generation.Accounting Records.Day Book",
       "navigationURL": "services/EGF/report/dayBookReport-newForm.action"
     },
     {
@@ -4058,7 +4058,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Accounting Records.Opening Balance",
+      "path": "Finance.Report Generation.Accounting Records.Opening Balance",
       "navigationURL": "services/EGF/report/openingBalanceReport-newForm.action"
     },
     {
@@ -4518,7 +4518,7 @@
       "code": "null",
       "navigationURL": "services/collection/receipts/receipt-newform.action?Receipt=Misc#no-back-button",
       "leftIcon": "image:collections",
-      "path": "Finance.Revenue/Collections.Miscellaneous Receipts"
+      "path": "Finance.Revenue Accounting.Miscellaneous Receipts"
     },
     {
       "id": 1692,
@@ -4544,7 +4544,7 @@
       "code": "null",
       "navigationURL": "services/collection/receipts/searchReceipt.action",
       "leftIcon": "image:collections",
-      "path": "Finance.Revenue/Collections.Search Receipts"
+      "path": "Finance.Revenue Accounting.Search Receipts"
     },
     {
       "id": 1694,
@@ -4606,7 +4606,7 @@
       "code": "null",
       "navigationURL": "services/collection/receipts/bankRemittance-newform.action",
       "leftIcon": "image:collections",
-      "path": "Finance.Revenue/Collections.Cash Remittance"
+      "path": "Finance.Revenue Accounting.Cash Remittance"
     },
     {
       "id": 1699,
@@ -4643,7 +4643,7 @@
       "code": "null",
       "navigationURL": "services/collection/receipts/chequeRemittance-newform.action",
       "leftIcon": "image:collections",
-      "path": "Finance.Revenue/Collections.Cheque Remittance"
+      "path": "Finance.Revenue Accounting.Cheque Remittance"
     },
     {
       "id": 1704,
@@ -4657,7 +4657,7 @@
       "code": "null",
       "navigationURL": "services/collection/service/serviceTypeToBankAccountMapping-newform.action",
       "leftIcon": "image:collections",
-      "path": "Finance.Set-up.Create Bankaccount Mapping"
+      "path": "Finance.Masters.Bank Account Mapping.Create Bankaccount Mapping"
     },
     {
       "id": 1705,
@@ -4671,7 +4671,7 @@
       "code": "null",
       "navigationURL": "services/collection/service/serviceTypeToBankAccountMapping-list.action",
       "leftIcon": "image:collections",
-      "path": "Finance.Set-up.View Bankaccount Mapping"
+      "path": "Finance.Masters.Bank Account Mapping.Create Bankaccount Mapping"
     },
     {
       "id": 1706,
@@ -5270,7 +5270,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Financial Statements.Income - Expenditures Statement"
+      "path": "Finance.Report Generation.Financial Statements.Income - Expenditures Statement"
     },
     {
       "id": 1754,
@@ -5284,7 +5284,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Financial Statements.Balance Sheet"
+      "path": "Finance.Report Generation.Financial Statements.Balance Sheet"
     },
     {
       "id": 1755,
@@ -5298,7 +5298,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budgeting.Budget Group.createBudgetGroup_Master"
+      "path": "Finance.Budget and Controls.Budget Group.createBudgetGroup_Master"
     },
     {
       "id": 1756,
@@ -5312,7 +5312,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budgeting.Budget Group.viewBudgetGroup_Master"
+      "path": "Finance.Budget and Controls.Budget Group.viewBudgetGroup_Master"
     },
     {
       "id": 1757,
@@ -5326,7 +5326,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budgeting.Budget Group.updateBudgetGroup_Master"
+      "path": "Finance.Budget and Controls.Budget Group.updateBudgetGroup_Master"
     },
     {
       "id": 1758,
@@ -5340,7 +5340,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budgeting.Budget Definition.createBudgetDefinition_Master"
+      "path": "Finance.Budget and Controls.Budget Definition.createBudgetDefinition_Master"
     },
     {
       "id": 1759,
@@ -5354,7 +5354,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budgeting.Budget Definition.viewBudgetDefinition_Master"
+      "path": "Finance.Budget and Controls.Budget Definition.viewBudgetDefinition_Master"
     },
     {
       "id": 1760,
@@ -5368,7 +5368,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budgeting.Budget Definition.updateBudgetDefinition_Master"
+      "path": "Finance.Budget and Controls.Budget Definition.updateBudgetDefinition_Master"
     },
     {
       "id": 1761,
@@ -5382,7 +5382,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budgeting.Budget Additional Appropriation"
+      "path": "Finance.Budget and Controls.Budget Additional Appropriation"
     },
     {
       "id": 1762,
@@ -5396,7 +5396,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budgeting.uploadBudgetMaster"
+      "path": "Finance.Budget and Controls.uploadBudgetMaster"
     },
     {
       "id": 1763,
@@ -5410,7 +5410,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budgeting.approveBudgetMaster"
+      "path": "Finance.Budget and Controls.approveBudgetMaster"
     },
     {
       "id": 1764,
@@ -5424,7 +5424,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budgeting.searchBudgetMaster"
+      "path": "Finance.Budget and Controls.searchBudgetMaster"
     },
     {
       "id": 1765,
@@ -5438,7 +5438,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Set-up.Budget Control Type.Create/Update-Budget Control Type"
+      "path": "Finance.Masters.Budget Control Type.Create/Update-Budget Control Type"
     },
     {
       "id": 1766,
@@ -5751,7 +5751,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Period End Activities.Financial Year.View Financial Year",
+      "path": "Finance.Masters.Financial Year.View Financial Year",
       "navigationURL": "services/EGF/cfinancialyear/search/view"
     },
     {
@@ -5765,7 +5765,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Period End Activities.Financial Year.Edit Financial Year",
+      "path": "Finance.Masters.Financial Year.Edit Financial Year",
       "navigationURL": "services/EGF/cfinancialyear/search/edit"
     },
     {
@@ -5807,7 +5807,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Period End Activities.Financial Year.Create Financial Year",
+      "path": "Finance.Masters.Financial Year.Create Financial Year",
       "navigationURL": "services/EGF/cfinancialyear/new"
     },
     {
@@ -19488,18 +19488,17 @@
     },
     {
       "id": 2908,
-      "name": "CHB Report",
+      "name": "Inter Fund Transfer",
+      "navigationURL": "services/EGF/grantsfund/newform",
       "url": "url",
-      "displayName": "CHB Refund Report",
-      "orderNumber": 1,
-      "parentModule": "ChbServices",
+      "parentModule": "EGF",
+      "displayName": "Inter Fund Transfer",
+      "orderNumber": 2,
       "enabled": true,
-      "serviceCode": "CHB",
+      "serviceCode": "FinanceBill",
       "code": "null",
-      "path": "CHB.Reports.CHBRefundReport",
-      "navigationURL": "report/rainmaker-CHB/CHBRefundReport",
-      "leftIcon": "places:business-center",
-      "rightIcon": ""
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Expenditure Accounting.Contra Entries.Inter Fund Transfer"
     },
     {
       "id": 2909,
