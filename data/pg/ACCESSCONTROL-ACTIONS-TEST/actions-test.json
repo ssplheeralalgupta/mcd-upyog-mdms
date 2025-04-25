@@ -3428,7 +3428,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Period End Activities.Financial Year",
+      "path": "Finance.Year End Activities.Financial Year",
       "navigationURL": "services/EGF/HTML/FinancialYearEnq.htm"
     },
     {
@@ -4044,7 +4044,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Accounting Records.Journal Book",
+      "path": "Finance.Report Generation.Accounting Records.Journal Book",
       "navigationURL": "services/EGF/report/journalBookReport-newForm.action"
     },
     {
@@ -4296,7 +4296,7 @@
       "serviceCode": "FinanceAdmin",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Period End Activities.Opening Balance Entry",
+      "path": "Finance.Year End Activities.Opening Balance Entry",
       "navigationURL": "services/EGF/transactionsummary/new"
     },
     {
@@ -5034,7 +5034,7 @@
       "code": "null",
       "navigationURL": "services/EGF/report/pendingTDSReport.action",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Deduction Reports.Remittance Pending "
+      "path": "Finance.Report Generation.Deduction Reports.Remittance Pending "
     },
     {
       "id": 1736,
@@ -5047,7 +5047,7 @@
       "code": "null",
       "navigationURL": "services/EGF/report/pendingTDSReport-summaryReport.action",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Deduction Reports.Deductions Summary "
+      "path": "Finance.Report Generation.Deduction Reports.Deductions Summary "
     },
     {
       "id": 1737,
@@ -5466,7 +5466,7 @@
       "enabled": true,
       "serviceCode": "FinanceReport",
       "code": "null",
-      "path": "Finance.Reports.Budget Reports.Departmentwise Budget",
+      "path": "Finance.Report Generation.Budget Reports.Departmentwise Budget",
       "navigationURL": "services/EGF/budget/budgetReport-departmentWiseReport.action",
       "leftIcon": "editor:insert-chart"
     },
@@ -5480,7 +5480,7 @@
       "enabled": true,
       "serviceCode": "FinanceReport",
       "code": "null",
-      "path": "Finance.Reports.Budget Reports.Functionwise Budget",
+      "path": "Finance.Report Generation.Budget Reports.Functionwise Budget",
       "navigationURL": "services/EGF/budget/budgetReport-functionwise.action",
       "leftIcon": "editor:insert-chart"
     },
@@ -5494,7 +5494,7 @@
       "enabled": true,
       "serviceCode": "FinanceReport",
       "code": "null",
-      "path": "Finance.Reports.Budget Reports.Budget Watch Register",
+      "path": "Finance.Report Generation.Budget Reports.Budget Watch Register",
       "navigationURL": "services/EGF/report/budgetAppropriationRegisterReport.action",
       "leftIcon": "editor:insert-chart"
     },
@@ -5508,7 +5508,7 @@
       "enabled": true,
       "serviceCode": "FinanceReport",
       "code": "null",
-      "path": "Finance.Reports.Budget Reports.Budget Variance Report",
+      "path": "Finance.Report Generation.Budget Reports.Budget Variance Report",
       "navigationURL": "services/EGF/report/budgetVarianceReport.action",
       "leftIcon": "editor:insert-chart"
     },
@@ -5522,7 +5522,7 @@
       "enabled": true,
       "serviceCode": "FinanceReport",
       "code": "null",
-      "path": "Finance.Reports.Budget Reports.Budget Upload Report",
+      "path": "Finance.Report Generation.Budget Reports.Budget Upload Report",
       "navigationURL": "services/EGF/budgetuploadreport/search",
       "leftIcon": "editor:insert-chart"
     },
@@ -5779,7 +5779,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Period End Activities.Transfer Closing Balance",
+      "path": "Finance.Year End Activities.Transfer Closing Balance",
       "navigationURL": "services/EGF/pea/transferClosingBalance-new.action"
     },
     {
@@ -5793,7 +5793,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Period End Activities.Close Period",
+      "path": "Finance.Year End Activities.Opening Balance Entry",
       "navigationURL": "services/EGF/closedperiod/search/edit"
     },
     {
@@ -6705,7 +6705,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Period End Activities.Close Financial Year",
+      "path": "Finance.Year End Activities.Close Financial Year",
       "navigationURL": "services/EGF/cfinancialyear/search/close"
     },
     {
@@ -6956,7 +6956,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Period End Activities.Close Period",
+      "path": "Finance.Year End Activities.Close Period",
       "navigationURL": "services/EGF/closedperiod/search/view"
     },
     {
@@ -7888,7 +7888,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Period End Activities.Close Period",
+      "path": "Finance.Year End Activities.Close Period",
       "navigationURL": "services/EGF/closedperiod/search/reopen"
     },
     {
@@ -7958,7 +7958,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Revenue Reports.Remittance Collection Report",
+      "path": "Finance.Report Generation.Revenue Reports.Remittance Collection Report",
       "navigationURL": "services/EGF/report/remittance/collection/form"
     },
     {
@@ -8016,7 +8016,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Revenue Reports.Remittance Pending Report",
+      "path": "Finance.Report Generation.Revenue Reports.Remittance Pending Report",
       "navigationURL": "services/EGF/report/remittance/pending/form"
     },
     {
