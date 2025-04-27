@@ -142,6 +142,20 @@
           "code": "pg.mcd"
         }
       ]
-    } 
+    },
+    {
+      "module": "Engagement",
+      "code": "Engagement",
+      "active": true,
+      "order":3,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.mcd"
+        }
+      ]
+    }
   ]
 }
