@@ -3387,7 +3387,7 @@
       "serviceCode": "FinanceBill",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Expenditure Accounting.Bills Accounting.Expense Bill"
+      "path": "Finance.Transactions.Bills Accounting.Expense Bill"
     },
     {
       "id": 1610,
@@ -3400,7 +3400,7 @@
       "serviceCode": "FinanceBill",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Expenditure Accounting.Bills Accounting.Create Voucher",
+      "path": "Finance.Transactions.Bills Accounting.Create Voucher",
       "navigationURL": "services/EGF/voucher/billVoucher-newForm.action"
     },
     {
@@ -3414,7 +3414,7 @@
       "serviceCode": "FinanceAdmin",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.General.Cancel Voucher",
+      "path": "Finance.Administration.Cancel Voucher",
       "navigationURL": "services/EGF/voucher/cancelVoucher-beforeSearch.action"
     },
     {
@@ -3428,7 +3428,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Year End Activities.Financial Year",
+      "path": "Finance.Period End Activities.Financial Year",
       "navigationURL": "services/EGF/HTML/FinancialYearEnq.htm"
     },
     {
@@ -3442,7 +3442,7 @@
       "serviceCode": "FinancePayment",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Expenditure Accounting.Payments.Direct Bank Payments",
+      "path": "Finance.Transactions.Payments.Direct Bank Payments",
       "navigationURL": "services/EGF/payment/directBankPayment-newform.action"
     },
     {
@@ -3456,7 +3456,7 @@
       "serviceCode": "FinanceBill",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Journal Voucher",
+      "path": "Finance.Transactions.Journal Voucher",
       "navigationURL": "services/EGF/voucher/journalVoucher-newForm.action"
     },
     {
@@ -3498,7 +3498,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Report Generation.Accounting Records.Bank book",
+      "path": "Finance.Reports.Accounting Records.Bank book",
       "navigationURL": "services/EGF/report/bankBookReport.action"
     },
     {
@@ -3512,7 +3512,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Report Generation.MIS Reports.Cheque Issue Register",
+      "path": "Finance.Reports.MIS Reports.Cheque Issue Register",
       "navigationURL": "services/EGF/report/chequeIssueRegisterReport.action"
     },
     {
@@ -3526,7 +3526,7 @@
       "serviceCode": "FinanceBill",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Expenditure Accounting.Bills Accounting.View Bills",
+      "path": "Finance.Transactions.Bills Accounting.View Bills",
       "navigationURL": "services/EGF/bill/billRegisterSearch-newform.action"
     },
     {
@@ -3652,7 +3652,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Report Generation.MIS Reports.Voucher Status Report",
+      "path": "Finance.Reports.MIS Reports.Voucher Status Report",
       "navigationURL": "services/EGF/report/voucherStatusReport-beforeSearch.action"
     },
     {
@@ -3680,7 +3680,7 @@
       "serviceCode": "FinancePayment",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Expenditure Accounting.Payments.RTGS Assignment",
+      "path": "Finance.Transactions.Payments.RTGS Assignment",
       "navigationURL": "services/EGF/payment/chequeAssignment-beforeRtgsSearch.action"
     },
     {
@@ -3694,7 +3694,7 @@
       "serviceCode": "FinanceGeneral",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.General.View Vouchers",
+      "path": "Finance.Transactions.View Vouchers",
       "navigationURL": "services/EGF/voucher/voucherSearch-beforesearch.action"
     },
     {
@@ -3708,7 +3708,7 @@
       "serviceCode": "FinancePayment",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Expenditure Accounting.Payments.Bill Payment",
+      "path": "Finance.Transactions.Payments.Bill Payment",
       "navigationURL": "services/EGF/payment/payment-beforeSearch.action"
     },
     {
@@ -3722,7 +3722,7 @@
       "serviceCode": "FinancePayment",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Expenditure Accounting.Payments.Cheque Assignment",
+      "path": "Finance.Transactions.Payments.Cheque Assignment",
       "navigationURL": "services/EGF/payment/chequeAssignment-beforeSearch.action"
     },
     {
@@ -3736,7 +3736,7 @@
       "serviceCode": "FinancePayment",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Expenditure Accounting.Payments.Surrender/Reassign Cheque",
+      "path": "Finance.Transactions.Payments.Surrender/Reassign Cheque",
       "navigationURL": "services/EGF/payment/chequeAssignment-beforeSearchForSurrender.action"
     },
     {
@@ -3890,7 +3890,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Report Generation.Accounting Records.Trial Balance",
+      "path": "Finance.Reports.Accounting Records.Trial Balance",
       "navigationURL": "services/EGF/report/trialBalance-newForm.action"
     },
     {
@@ -3918,7 +3918,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Report Generation.MIS Reports.Bill Register Detailed Report",
+      "path": "Finance.Reports.MIS Reports.Bill Register Detailed Report",
       "navigationURL": "services/EGF/report/billRegisterReport-searchform.action"
     },
     {
@@ -3932,7 +3932,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Report Generation.MIS Reports.Bank Advice Report(RTGS)",
+      "path": "Finance.Reports.MIS Reports.Bank Advice Report(RTGS)",
       "navigationURL": "services/EGF/report/bankAdviceReport-newForm.action"
     },
     {
@@ -3974,7 +3974,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Report Generation.MIS Reports.RTGS Register",
+      "path": "Finance.Reports.MIS Reports.RTGS Register",
       "navigationURL": "services/EGF/report/rtgsIssueRegisterReport-newForm.action"
     },
     {
@@ -3988,7 +3988,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Report Generation.Accounting Records.General Ledger",
+      "path": "Finance.Reports.Accounting Records.General Ledger",
       "navigationURL": "services/EGF/report/generalLedgerReport-newForm.action"
     },
     {
@@ -4002,7 +4002,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Report Generation.Accounting Records.Subledger Schedule",
+      "path": "Finance.Reports.Accounting Records.Subledger Schedule",
       "navigationURL": "services/EGF/report/subLedgerScheduleReport-newForm.action"
     },
     {
@@ -4016,7 +4016,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Report Generation.Accounting Records.Sub Ledger",
+      "path": "Finance.Reports.Accounting Records.Sub Ledger",
       "navigationURL": "services/EGF/report/subLedgerReport-newForm.action"
     },
     {
@@ -4030,7 +4030,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Report Generation.Accounting Records.Day Book",
+      "path": "Finance.Reports.Accounting Records.Day Book",
       "navigationURL": "services/EGF/report/dayBookReport-newForm.action"
     },
     {
@@ -4044,7 +4044,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Report Generation.Accounting Records.Journal Book",
+      "path": "Finance.Reports.Accounting Records.Journal Book",
       "navigationURL": "services/EGF/report/journalBookReport-newForm.action"
     },
     {
@@ -4058,7 +4058,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Report Generation.Accounting Records.Opening Balance",
+      "path": "Finance.Reports.Accounting Records.Opening Balance",
       "navigationURL": "services/EGF/report/openingBalanceReport-newForm.action"
     },
     {
@@ -4072,7 +4072,7 @@
       "serviceCode": "FinancePayment",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Expenditure Accounting.Payments.Surrender RTGS",
+      "path": "Finance.Transactions.Payments.Surrender RTGS",
       "navigationURL": "services/EGF/payment/chequeAssignment-beforeSearchForRTGSSurrender.action"
     },
     {
@@ -4296,7 +4296,7 @@
       "serviceCode": "FinanceAdmin",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Year End Activities.Opening Balance Entry",
+      "path": "Finance.Period End Activities.Opening Balance Entry",
       "navigationURL": "services/EGF/transactionsummary/new"
     },
     {
@@ -4518,7 +4518,7 @@
       "code": "null",
       "navigationURL": "services/collection/receipts/receipt-newform.action?Receipt=Misc#no-back-button",
       "leftIcon": "image:collections",
-      "path": "Finance.Revenue Accounting.Miscellaneous Receipts"
+      "path": "Finance.Revenue/Collections.Miscellaneous Receipts"
     },
     {
       "id": 1692,
@@ -4544,7 +4544,7 @@
       "code": "null",
       "navigationURL": "services/collection/receipts/searchReceipt.action",
       "leftIcon": "image:collections",
-      "path": "Finance.Revenue Accounting.Search Receipts"
+      "path": "Finance.Revenue/Collections.Search Receipts"
     },
     {
       "id": 1694,
@@ -4606,7 +4606,7 @@
       "code": "null",
       "navigationURL": "services/collection/receipts/bankRemittance-newform.action",
       "leftIcon": "image:collections",
-      "path": "Finance.Revenue Accounting.Cash Remittance"
+      "path": "Finance.Revenue/Collections.Cash Remittance"
     },
     {
       "id": 1699,
@@ -4643,7 +4643,7 @@
       "code": "null",
       "navigationURL": "services/collection/receipts/chequeRemittance-newform.action",
       "leftIcon": "image:collections",
-      "path": "Finance.Revenue Accounting.Cheque Remittance"
+      "path": "Finance.Revenue/Collections.Cheque Remittance"
     },
     {
       "id": 1704,
@@ -4657,7 +4657,7 @@
       "code": "null",
       "navigationURL": "services/collection/service/serviceTypeToBankAccountMapping-newform.action",
       "leftIcon": "image:collections",
-      "path": "Finance.Masters.Bank Account Mapping.Create Bankaccount Mapping"
+      "path": "Finance.Set-up.Create Bankaccount Mapping"
     },
     {
       "id": 1705,
@@ -4671,7 +4671,7 @@
       "code": "null",
       "navigationURL": "services/collection/service/serviceTypeToBankAccountMapping-list.action",
       "leftIcon": "image:collections",
-      "path": "Finance.Masters.Bank Account Mapping.Create Bankaccount Mapping"
+      "path": "Finance.Set-up.View Bankaccount Mapping"
     },
     {
       "id": 1706,
@@ -4847,7 +4847,7 @@
       "navigationURL": "services/EGF/deduction/remitRecovery-newform.action",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Expenditure Accounting.Deductions.Deduction Payments"
+      "path": "Finance.Transactions.Deductions.Deduction Payments"
     },
     {
       "id": 1722,
@@ -4874,7 +4874,7 @@
       "navigationURL": "services/EGF/payment/chequeAssignment-beforeSearchForRemittance.action",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Expenditure Accounting.Deductions.Deductions Cheque Assignment"
+      "path": "Finance.Transactions.Deductions.Deductions Cheque Assignment"
     },
     {
       "id": 1724,
@@ -4899,7 +4899,7 @@
       "navigationURL": "services/EGF/purchaseorder/newform",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Expenditure Accounting.Purchase Order.Create Purchase Order"
+      "path": "Finance.Masters.Purchase Order.Create Purchase Order"
     },
     {
       "id": 1726,
@@ -4913,7 +4913,7 @@
       "navigationURL": "services/EGF/purchaseorder/search/view",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Expenditure Accounting.Purchase Order.View Purchase Order"
+      "path": "Finance.Masters.Purchase Order.View Purchase Order"
     },
     {
       "id": 1727,
@@ -4927,7 +4927,7 @@
       "navigationURL": "services/EGF/purchaseorder/search/edit",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Expenditure Accounting.Purchase Order.Modify Purchase Order"
+      "path": "Finance.Masters.Purchase Order.Modify Purchase Order"
     },
     {
       "id": 1728,
@@ -4981,7 +4981,7 @@
       "navigationURL": "services/EGF/workorder/newform",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Expenditure Accounting.Work Order.Create Work Order"
+      "path": "Finance.Masters.Work Order.Create Work Order"
     },
     {
       "id": 1732,
@@ -4995,7 +4995,7 @@
       "navigationURL": "services/EGF/workorder/search/view",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Expenditure Accounting.Work Order.View Work Order"
+      "path": "Finance.Masters.Work Order.View Work Order"
     },
     {
       "id": 1733,
@@ -5009,7 +5009,7 @@
       "navigationURL": "services/EGF/workorder/search/edit",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Expenditure Accounting.Work Order.Modify Work Order"
+      "path": "Finance.Masters.Work Order.Modify Work Order"
     },
     {
       "id": 1734,
@@ -5034,7 +5034,7 @@
       "code": "null",
       "navigationURL": "services/EGF/report/pendingTDSReport.action",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Report Generation.Deduction Reports.Remittance Pending "
+      "path": "Finance.Reports.Deduction Reports.Remittance Pending "
     },
     {
       "id": 1736,
@@ -5047,7 +5047,7 @@
       "code": "null",
       "navigationURL": "services/EGF/report/pendingTDSReport-summaryReport.action",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Report Generation.Deduction Reports.Deductions Summary "
+      "path": "Finance.Reports.Deduction Reports.Deductions Summary "
     },
     {
       "id": 1737,
@@ -5150,7 +5150,7 @@
       "serviceCode": "FinanceBill",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Expenditure Accounting.Bills Accounting.Contractor Bill"
+      "path": "Finance.Transactions.Bills Accounting.Contractor Bill"
     },
     {
       "id": 1745,
@@ -5164,7 +5164,7 @@
       "serviceCode": "FinanceBill",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Expenditure Accounting.Bills Accounting.Supplier Bill"
+      "path": "Finance.Transactions.Bills Accounting.Supplier Bill"
     },
     {
       "id": 1746,
@@ -5190,7 +5190,7 @@
       "serviceCode": "FinanceBill",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Expenditure Accounting.Contra Entries.Bank to Bank Transfer"
+      "path": "Finance.Transactions.Contra Entries.Bank to Bank Transfer"
     },
     {
       "id": 1748,
@@ -5270,7 +5270,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Report Generation.Financial Statements.Income - Expenditures Statement"
+      "path": "Finance.Reports.Financial Statements.Income - Expenditures Statement"
     },
     {
       "id": 1754,
@@ -5284,7 +5284,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Report Generation.Financial Statements.Balance Sheet"
+      "path": "Finance.Reports.Financial Statements.Balance Sheet"
     },
     {
       "id": 1755,
@@ -5298,7 +5298,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budget and Controls.Budget Group.createBudgetGroup_Master"
+      "path": "Finance.Budgeting.Budget Group.createBudgetGroup_Master"
     },
     {
       "id": 1756,
@@ -5312,7 +5312,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budget and Controls.Budget Group.viewBudgetGroup_Master"
+      "path": "Finance.Budgeting.Budget Group.viewBudgetGroup_Master"
     },
     {
       "id": 1757,
@@ -5326,7 +5326,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budget and Controls.Budget Group.updateBudgetGroup_Master"
+      "path": "Finance.Budgeting.Budget Group.updateBudgetGroup_Master"
     },
     {
       "id": 1758,
@@ -5340,7 +5340,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budget and Controls.Budget Definition.createBudgetDefinition_Master"
+      "path": "Finance.Budgeting.Budget Definition.createBudgetDefinition_Master"
     },
     {
       "id": 1759,
@@ -5354,7 +5354,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budget and Controls.Budget Definition.viewBudgetDefinition_Master"
+      "path": "Finance.Budgeting.Budget Definition.viewBudgetDefinition_Master"
     },
     {
       "id": 1760,
@@ -5368,7 +5368,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budget and Controls.Budget Definition.updateBudgetDefinition_Master"
+      "path": "Finance.Budgeting.Budget Definition.updateBudgetDefinition_Master"
     },
     {
       "id": 1761,
@@ -5382,7 +5382,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budget and Controls.Budget Additional Appropriation"
+      "path": "Finance.Budgeting.Budget Additional Appropriation"
     },
     {
       "id": 1762,
@@ -5396,7 +5396,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budget and Controls.uploadBudgetMaster"
+      "path": "Finance.Budgeting.uploadBudgetMaster"
     },
     {
       "id": 1763,
@@ -5410,7 +5410,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budget and Controls.approveBudgetMaster"
+      "path": "Finance.Budgeting.approveBudgetMaster"
     },
     {
       "id": 1764,
@@ -5424,7 +5424,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budget and Controls.searchBudgetMaster"
+      "path": "Finance.Budgeting.searchBudgetMaster"
     },
     {
       "id": 1765,
@@ -5438,7 +5438,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Budget Control Type.Create/Update-Budget Control Type"
+      "path": "Finance.Set-up.Budget Control Type.Create/Update-Budget Control Type"
     },
     {
       "id": 1766,
@@ -5466,7 +5466,7 @@
       "enabled": true,
       "serviceCode": "FinanceReport",
       "code": "null",
-      "path": "Finance.Report Generation.Budget Reports.Departmentwise Budget",
+      "path": "Finance.Reports.Budget Reports.Departmentwise Budget",
       "navigationURL": "services/EGF/budget/budgetReport-departmentWiseReport.action",
       "leftIcon": "editor:insert-chart"
     },
@@ -5480,7 +5480,7 @@
       "enabled": true,
       "serviceCode": "FinanceReport",
       "code": "null",
-      "path": "Finance.Report Generation.Budget Reports.Functionwise Budget",
+      "path": "Finance.Reports.Budget Reports.Functionwise Budget",
       "navigationURL": "services/EGF/budget/budgetReport-functionwise.action",
       "leftIcon": "editor:insert-chart"
     },
@@ -5494,7 +5494,7 @@
       "enabled": true,
       "serviceCode": "FinanceReport",
       "code": "null",
-      "path": "Finance.Report Generation.Budget Reports.Budget Watch Register",
+      "path": "Finance.Reports.Budget Reports.Budget Watch Register",
       "navigationURL": "services/EGF/report/budgetAppropriationRegisterReport.action",
       "leftIcon": "editor:insert-chart"
     },
@@ -5508,7 +5508,7 @@
       "enabled": true,
       "serviceCode": "FinanceReport",
       "code": "null",
-      "path": "Finance.Report Generation.Budget Reports.Budget Variance Report",
+      "path": "Finance.Reports.Budget Reports.Budget Variance Report",
       "navigationURL": "services/EGF/report/budgetVarianceReport.action",
       "leftIcon": "editor:insert-chart"
     },
@@ -5522,7 +5522,7 @@
       "enabled": true,
       "serviceCode": "FinanceReport",
       "code": "null",
-      "path": "Finance.Report Generation.Budget Reports.Budget Upload Report",
+      "path": "Finance.Reports.Budget Reports.Budget Upload Report",
       "navigationURL": "services/EGF/budgetuploadreport/search",
       "leftIcon": "editor:insert-chart"
     },
@@ -5751,7 +5751,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Financial Year.View Financial Year",
+      "path": "Finance.Period End Activities.Financial Year.View Financial Year",
       "navigationURL": "services/EGF/cfinancialyear/search/view"
     },
     {
@@ -5765,7 +5765,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Financial Year.Edit Financial Year",
+      "path": "Finance.Period End Activities.Financial Year.Edit Financial Year",
       "navigationURL": "services/EGF/cfinancialyear/search/edit"
     },
     {
@@ -5779,7 +5779,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Year End Activities.Transfer Closing Balance",
+      "path": "Finance.Period End Activities.Transfer Closing Balance",
       "navigationURL": "services/EGF/pea/transferClosingBalance-new.action"
     },
     {
@@ -5793,7 +5793,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Year End Activities.Opening Balance Entry",
+      "path": "Finance.Period End Activities.Close Period",
       "navigationURL": "services/EGF/closedperiod/search/edit"
     },
     {
@@ -5807,7 +5807,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Financial Year.Create Financial Year",
+      "path": "Finance.Period End Activities.Financial Year.Create Financial Year",
       "navigationURL": "services/EGF/cfinancialyear/new"
     },
     {
@@ -6298,7 +6298,7 @@
       "serviceCode": "FinanceReconcile",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Bank Reconciliation.Reconcile with Bank-Manual"
+      "path": "Finance.Transactions.Bank Reconciliation.Reconcile with Bank-Manual"
     },
     {
       "id": 1838,
@@ -6312,7 +6312,7 @@
       "serviceCode": "FinanceReconcile",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Bank Reconciliation.Bank Statement Entries - Not In Bank Book"
+      "path": "Finance.Transactions.Bank Reconciliation.Bank Statement Entries - Not In Bank Book"
     },
     {
       "id": 1839,
@@ -6326,7 +6326,7 @@
       "serviceCode": "FinanceReconcile",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Bank Reconciliation.Reconciliation Summary Report"
+      "path": "Finance.Transactions.Bank Reconciliation.Reconciliation Summary Report"
     },
     {
       "id": 1840,
@@ -6629,7 +6629,7 @@
       "serviceCode": "FinanceReconcile",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Bank Reconciliation.Auto reconcile Statement Upload"
+      "path": "Finance.Transactions.Bank Reconciliation.Auto reconcile Statement Upload"
     },
     {
       "id": 1868,
@@ -6643,7 +6643,7 @@
       "serviceCode": "FinanceReconcile",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Bank Reconciliation.Reconcile Uploaded Statement"
+      "path": "Finance.Transactions.Bank Reconciliation.Reconcile Uploaded Statement"
     },
     {
       "id": 1869,
@@ -6681,7 +6681,7 @@
       "serviceCode": "FinanceReconcile",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Bank Reconciliation.View Bank Statement Uploaded Files"
+      "path": "Finance.Transactions.Bank Reconciliation.View Bank Statement Uploaded Files"
     },
     {
       "id": 1872,
@@ -6705,7 +6705,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Year End Activities.Close Financial Year",
+      "path": "Finance.Period End Activities.Close Financial Year",
       "navigationURL": "services/EGF/cfinancialyear/search/close"
     },
     {
@@ -6956,7 +6956,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Year End Activities.Close Period",
+      "path": "Finance.Period End Activities.Close Period",
       "navigationURL": "services/EGF/closedperiod/search/view"
     },
     {
@@ -7748,7 +7748,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Report Generation.MIS Reports.Surrendered Cheque",
+      "path": "Finance.Reports.MIS Reports.Surrendered Cheque",
       "navigationURL": "services/EGF/report/cheque/surrendered/form"
     },
     {
@@ -7888,7 +7888,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Year End Activities.Close Period",
+      "path": "Finance.Period End Activities.Close Period",
       "navigationURL": "services/EGF/closedperiod/search/reopen"
     },
     {
@@ -7958,7 +7958,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Report Generation.Revenue Reports.Remittance Collection Report",
+      "path": "Finance.Reports.Revenue Reports.Remittance Collection Report",
       "navigationURL": "services/EGF/report/remittance/collection/form"
     },
     {
@@ -8002,7 +8002,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Report Generation.MIS Reports.Dishonored Cheque Report",
+      "path": "Finance.Reports.MIS Reports.Dishonored Cheque Report",
       "navigationURL": "services/collection/report/dishonouredcheque/searchform"
     },
     {
@@ -8016,7 +8016,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Report Generation.Revenue Reports.Remittance Pending Report",
+      "path": "Finance.Reports.Revenue Reports.Remittance Pending Report",
       "navigationURL": "services/EGF/report/remittance/pending/form"
     },
     {
@@ -19335,827 +19335,7 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/ew-home"
-    },
-     {
-      "id": 2899,
-      "name": "Inbox",
-      "url": "/services/EGF/inbox",
-      "parentModule": "",
-      "displayName": "Inbox",
-      "orderNumber": 3,
-      "enabled": true,
-      "serviceCode": "FinanceGeneral",
-      "code": "null",
-      "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Inbox",
-      "navigationURL": "services/EGF/inbox"
-    },
-    {
-      "name": "WT_REQUEST_SERVICE",
-      "url": "digit-ui-card",
-      "displayName": "Request Service",
-      "orderNumber": 1,
-      "parentModule": "WT",
-      "enabled": true,
-      "serviceCode": "request-service",
-      "code": "null",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/wt/request-service",
-      "leftIcon": "CHBIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/wt-home"
-    },
-    {
-      "id": 2900,
-      "name": "WT_VIEW_STATUS",
-      "url": "digit-ui-card",
-      "displayName": "View Status",
-      "orderNumber": 2,
-      "parentModule": "WT",
-      "enabled": true,
-      "serviceCode": "request-service",
-      "code": "null",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/wt/status",
-      "leftIcon": "CHBIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/wt-home"
-    },
-    {
-      "id": 2901,
-      "name": "Asset Report",
-      "url": "url",
-      "displayName": "Asset Maintenance Report",
-      "orderNumber": 1,
-      "parentModule": "asset-services-masters",
-      "enabled": true,
-      "serviceCode": "ASSET",
-      "code": "null",
-      "path": "Asset.Reports.AssetMaintenanceReport",
-      "navigationURL": "report/rainmaker-asset/AssetMaintenanceReport",
-      "leftIcon": "places:business-center",
-      "rightIcon": ""
-    },
-    {
-      "id": 2902,
-      "name": "AssetMaintenanceReport",
-      "url": "/report/rainmaker-asset/AssetMaintenanceReport/metadata/_get",
-      "displayName": "rainmaker-asset-AssetMaintenanceReport",
-      "orderNumber": 5,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "report",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2903,
-      "name": "AssetMaintenanceReport",
-      "url": "/report/rainmaker-asset/AssetMaintenanceReport/_get",
-      "displayName": "rainmaker-asset-AssetMaintenanceReport",
-      "orderNumber": 5,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "report",
-      "code": "null",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/ew/raiseRequest",
-      "leftIcon": "TLIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/ew-home"
-    },
-    {
-      "id": 2904,
-      "name": "Create Water Tanker application",
-      "url": "/request-service/water-tanker/v1/_create",
-      "displayName": "Create Water Tanker application",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "request-service",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2905,
-      "name": "CHB Report",
-      "url": "url",
-      "displayName": "CHB Daily Register Report",
-      "orderNumber": 1,
-      "parentModule": "ChbServices",
-      "enabled": true,
-      "serviceCode": "CHB",
-      "code": "null",
-      "path": "CHB.Reports.CHBDailyRegisterReport",
-      "navigationURL": "report/rainmaker-CHB/CHBDailyRegisterReport",
-      "leftIcon": "places:business-center",
-      "rightIcon": ""
-    },
-    {
-      "id": 2906,
-      "name": "CHBDailyRegisterReport",
-      "url": "/report/rainmaker-CHB/CHBDailyRegisterReport/metadata/_get",
-      "displayName": "rainmaker-CHB-CHBDailyRegisterReport",
-      "orderNumber": 2,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "report",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2907,
-      "name": "CHBDailyRegisterReport",
-      "url": "/report/rainmaker-CHB/CHBDailyRegisterReport/_get",
-      "displayName": "rainmaker-CHB-CHBDailyRegisterReport",
-      "orderNumber": 2,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "report",
-      "code": "null",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/ew/raiseRequest",
-      "leftIcon": "TLIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/ew-home"
-    },
-    {
-      "id": 2908,
-      "name": "Inter Fund Transfer",
-      "navigationURL": "services/EGF/grantsfund/newform",
-      "url": "url",
-      "parentModule": "EGF",
-      "displayName": "Inter Fund Transfer",
-      "orderNumber": 2,
-      "enabled": true,
-      "serviceCode": "FinanceBill",
-      "code": "null",
-      "leftIcon": "editor:insert-chart",
-      "path": "Finance.Expenditure Accounting.Contra Entries.Inter Fund Transfer"
-    },
-    {
-      "id": 2909,
-      "name": "CHBRefundReport",
-      "url": "/report/rainmaker-CHB/CHBRefundReport/metadata/_get",
-      "displayName": "rainmaker-CHB-CHBRefundReport",
-      "orderNumber": 3,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "report",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2910,
-      "name": "Financial Year-SetUp By Date Range",
-      "url": "url",
-      "parentModule": "",
-      "displayName": "Close Financial Year By Date Range",
-      "orderNumber": 5,
-      "enabled": true,
-      "serviceCode": "FinanceMaster",
-      "code": "null",
-      "leftIcon": "editor:insert-chart",
-      "path": "Finance.Year End Activities.Close Financial Year",
-      "navigationURL": "services/EGF/cfinancialyear/search/daterange"
-    },
-    {
-      "id": 2911,
-      "name": "vendor additional details",
-      "url": "/vendor-management/api/v1/_create",
-      "displayName": "Vendor additional details",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "vendor",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2912,
-      "name": "Search Water Tanker application",
-      "url": "/request-service/water-tanker/v1/_search",
-      "displayName": "Search Water Tanker application",
-      "orderNumber": 2,
-      "enabled": false,
-      "serviceCode": "request-service",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2913,
-      "name": "Update Water Tanker application",
-      "url": "/request-service/water-tanker/v1/_update",
-      "displayName": "Update Water Tanker application",
-      "orderNumber": 3,
-      "enabled": false,
-      "serviceCode": "request-service",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2914,
-      "name": "MDMS v2 Doors Update",
-      "url": "/mdms-v2/v2/_update/BPA.Doors",
-      "displayName": "Update BPA-master Doors",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2915,
-      "name": "MDMS v2 Doors Create",
-      "url": "/mdms-v2/v2/_create/BPA.Doors",
-      "displayName": "Create BPA-master Doors",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2916,
-      "name": "MDMS v2 Ewaste create productName",
-      "url": "/mdms-v2/v2/_create/Ewaste.ProductName",
-      "displayName": "MDMS V2 Ewaste create productName",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2917,
-      "name": "MDMS v2 Advertisement Adtype",
-      "url": "/mdms-v2/v2/_create/Advertisement.AdType",
-      "displayName": "MDMS V2 Advertisement Adtype",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2918,
-      "name": "MDMS v2 PetService BreedType",
-      "url": "/mdms-v2/v2/_create/PetService.BreedType",
-      "displayName": "MDMS V2 PetService BreedType",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2919,
-      "name": "MDMS v2 StreetVending VendingZones",
-      "url": "/mdms-v2/v2/_create/StreetVending.VendingZones",
-      "displayName": "MDMS V2 StreetVending VendingZones",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2920,
-      "name": "MDMS v2 CHB CommunityHalls",
-      "url": "/mdms-v2/v2/_create/CHB.CommunityHalls",
-      "displayName": "MDMS V2 CHB CommunityHalls",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2921,
-      "name": "MDMS v2 Ewaste productName update",
-      "url": "/mdms-v2/v2/_update/Ewaste.ProductName",
-      "displayName": "MDMS V2 Ewaste productName update",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2922,
-      "name": "MDMS v2 Advertisement Adtype update",
-      "url": "/mdms-v2/v2/_update/Advertisement.AdType",
-      "displayName": "MDMS V2 Advertisement Adtype update",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2923,
-      "name": "MDMS v2 PetService BreedType update",
-      "url": "/mdms-v2/v2/_update/PetService.BreedType",
-      "displayName": "MDMS V2 PetService BreedType update",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2924,
-      "name": "MDMS v2 StreetVending VendingZones update",
-      "url": "/mdms-v2/v2/_update/StreetVending.VendingZones",
-      "displayName": "MDMS V2 StreetVending VendingZones update",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2925,
-      "name": "MDMS v2 CHB CommunityHalls update",
-      "url": "/mdms-v2/v2/_update/CHB.CommunityHalls",
-      "displayName": "MDMS V2 CHB CommunityHalls update",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2926,
-      "name": "WT_REQUEST_SERVICE_VENDOR_LOGIN",
-      "url": "digit-ui-card",
-      "displayName": "Request Service",
-      "serviceCode": "request-service",
-      "code": "null",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/wt/wt-Vendor",
-      "leftIcon": "CHBIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/wt-home"
-    },
-    {
-      "id": 2927,
-      "name": "MDMS v2 CHB CalculationType create",
-      "url": "/mdms-v2/v2/_create/CHB.CalculationType",
-      "displayName": "MDMS V2 CHB CalculationType create",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2928,
-      "name": "MDMS v2 CHB CalculationType update",
-      "url": "/mdms-v2/v2/_update/CHB.CalculationType",
-      "displayName": "MDMS V2 CHB CalculationType update",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2929,
-      "name": "Create renewal demand street vending application",
-      "url": "/sv-services/street-vending/_createdemand",
-      "displayName": "Create renewal demand street vending Application",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "sv-services",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2930,
-      "name": "Water Tanker Payment search",
-      "url": "/collection-services/payments/request-service.water_tanker/_search",
-      "displayName": "Water Tanker Payment search",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2931,
-      "name": "CND_APPLY",
-      "url": "digit-ui-card",
-      "displayName": "Apply",
-      "orderNumber": 1,
-      "parentModule": "CND",
-      "enabled": true,
-      "serviceCode": "CND",
-      "code": "null",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/cnd/apply",
-      "leftIcon": "",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/cnd-ui/citizen/cnd-home"
-    },
-    {
-      "id": 2932,
-      "name": "CND_APPLY",
-      "url": "cnd-ui-card",
-      "displayName": "Apply",
-      "orderNumber": 1,
-      "parentModule": "CND",
-      "enabled": true,
-      "serviceCode": "CND",
-      "code": "null",
-      "path": "",
-      "navigationURL": "/cnd-ui/citizen/cnd/apply",
-      "leftIcon": "",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "cnd-ui-links",
-      "sidebarURL": "/cnd-ui/citizen/cnd-home"
-    },
-    {
-      "id": 2935,
-      "name": "vendor common Search",
-      "url": "/vendor-management/api/v1/vendorPlusAdditional/_search",
-      "displayName": "Vendor Common Search",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "vendor",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2936,
-      "name": "Pet Report",
-      "url": "url",
-      "displayName": "Pet Application Report",
-      "orderNumber": 1,
-      "parentModule": "pet-services",
-      "enabled": true,
-      "serviceCode": "PTR",
-      "code": "null",
-      "path": "PTR.Reports.PetReport",
-      "navigationURL": "report/rainmaker-pet/PetReport",
-      "leftIcon": "places:business-center",
-      "rightIcon": ""
-    },
-    {
-      "id": 2937,
-      "name": "PetReport",
-      "url": "/report/rainmaker-pet/PetReport/metadata/_get",
-      "displayName": "rainmaker-pet-PetReport",
-      "orderNumber": 3,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "report",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2938,
-      "name": "PetReport",
-      "url": "/report/rainmaker-pet/PetReport/_get",
-      "displayName": "rainmaker-pet-PetReport",
-      "orderNumber": 3,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "report",
-      "code": "null",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/ew/raiseRequest",
-      "leftIcon": "TLIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/ew-home"
-    },
-    {
-      "id": 2939,
-      "name": "Adv Application Report",
-      "url": "url",
-      "displayName": "Adv Application Report",
-      "orderNumber": 1,
-      "parentModule": "adv-services",
-      "enabled": true,
-      "serviceCode": "ADS",
-      "code": "null",
-      "path": "ADS.Reports.AdvApplicationReport",
-      "navigationURL": "report/rainmaker-ads/AdvApplicationReport",
-      "leftIcon": "places:business-center",
-      "rightIcon": ""
-    },
-    {
-      "id": 2940,
-      "name": "AdvApplicationReport",
-      "url": "/report/rainmaker-ads/AdvApplicationReport/metadata/_get",
-      "displayName": "rainmaker-ads-AdvApplicationReport",
-      "orderNumber": 3,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "report",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2941,
-      "name": "AdvApplicationReport",
-      "url": "/report/rainmaker-ads/AdvApplicationReport/_get",
-      "displayName": "rainmaker-ads-AdvApplicationReport",
-      "orderNumber": 3,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "report",
-      "code": "null",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/ew/raiseRequest",
-      "leftIcon": "TLIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/ew-home"
-    },
-    {
-      "id": 2942,
-      "name": "Create Mobile Toilet application",
-      "url": "/request-service/mobile-toilet/v1/_create",
-      "displayName": "Create Mobile Toilet application",
-      "orderNumber": 4,
-      "enabled": false,
-      "serviceCode": "request-service",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2943,
-      "name": "Search Mobile Toilet application",
-      "url": "/request-service/mobile-toilet/v1/_search",
-      "displayName": "Search Mobile Toilet application",
-      "orderNumber": 5,
-      "enabled": false,
-      "serviceCode": "request-service",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2944,
-      "name": "Update Mobile Toilet application",
-      "url": "/request-service/mobile-toilet/v1/_update",
-      "displayName": "Update Mobile Toilet application",
-      "orderNumber": 6,
-      "enabled": false,
-      "serviceCode": "request-service",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2945,
-      "name": "Create CND application",
-      "url": "/cnd-service/v1/_create",
-      "displayName": "Create CND application",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "cnd-service",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2946,
-      "name": "Search CND application",
-      "url": "/cnd-service/v1/_search",
-      "displayName": "Search CND application",
-      "orderNumber": 2,
-      "enabled": false,
-      "serviceCode": "cnd-service",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2947,
-      "name": "Update CND application",
-      "url": "/cnd-service/v1/_update",
-      "displayName": "Update CND application",
-      "orderNumber": 3,
-      "enabled": false,
-      "serviceCode": "cnd-service",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2948,
-      "name": "MT_REQUEST_SERVICE_VENDOR_LOGIN",
-      "url": "digit-ui-card",
-      "displayName": "Request Service",
-      "orderNumber": 4,
-      "parentModule": "WT",
-      "enabled": true,
-      "serviceCode": "request-service",
-      "code": "null",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/wt/mt-Vendor",
-      "leftIcon": "CHBIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/wt-home"
-    },
-    {
-      "id": 2949,
-      "name": "Mobile Toilet Payment search",
-      "url": "/collection-services/payments/request-service.mobile_toilet/_search",
-      "displayName": "Mobile Toilet Payment search",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2950,
-      "name": "Fetch Asset Assignable List",
-      "url": "/asset-services/v1/assets/assignment/_search",
-      "displayName": "Fetch Asset Assignable List",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "asset-services",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2951,
-      "name": "Admin Reports",
-      "url": "services/EGF/report/ulbWiseReport-generateUlbWiseReport.action",
-      "parentModule": "",
-      "displayName": "Admin Reports",
-      "orderNumber": 7,
-      "enabled": true,
-      "serviceCode": "FinanceReport",
-      "code": "null",
-      "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Admin Reports",
-      "navigationURL": "services/EGF/report/ulbWiseReport-generateUlbWiseReport.action"
-    },
-    {
-      "id": 2952,
-      "name": "CND_MY_REQUEST",
-      "url": "digit-ui-card",
-      "displayName": "My-Request",
-      "orderNumber": 1,
-      "parentModule": "CND",
-      "enabled": true,
-      "serviceCode": "CND",
-      "code": "null",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/cnd/my-request",
-      "leftIcon": "",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/cnd-ui/citizen/cnd-home"
-    },
-    {
-      "id": 2953,
-      "name": "CND_MY_REQUEST",
-      "url": "cnd-ui-card",
-      "displayName": "My-Request",
-      "orderNumber": 1,
-      "parentModule": "CND",
-      "enabled": true,
-      "serviceCode": "CND",
-      "code": "null",
-      "path": "",
-      "navigationURL": "/cnd-ui/citizen/cnd/my-request",
-      "leftIcon": "",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "cnd-ui-links",
-      "sidebarURL": "/cnd-ui/citizen/cnd-home"
-    },
-    {
-      "id": 2954,
-      "name": "Create Address ",
-      "url": "/user/_createAddress",
-      "displayName": "Create Address",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "ADMIN",
-      "code": "null",
-      "path": "Administration.Create Address"
-    },
-    {
-      "id": 2955,
-      "name": "Get Address",
-      "url": "/user/_getAddress",
-      "displayName": "Get Address",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "ADMIN",
-      "code": "null",
-      "path": "Administration.Get Address"
-    },
-    {
-      "id": 2956,
-      "name": "Update Address",
-      "url": "/user/_updateAddress",
-      "displayName": "Update Address",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "ADMIN",
-      "code": "null",
-      "path": "Administration.Update Address"
-    },
-    {
-      "id": 2957,
-      "name": "Create Users",
-      "url": "/user/users/v2/_create",
-      "displayName": "Create Users",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "ADMIN",
-      "code": "null",
-      "path": "Administration.Create Users"
-    },
-    {
-      "id": 2958,
-      "name": "Update Users V2",
-      "url": "/user/users/v2/_update",
-      "displayName": "Update Users V2",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "ADMIN",
-      "code": "null",
-      "path": "Administration.Update Users"
-    },
-    {
-      "id": 2959,
-      "name": "Search Users",
-      "url": "/user/users/v2/_search",
-      "displayName": "Search Users",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "ADMIN",
-      "code": "null",
-      "path": "Administration.Search Users"
-    },
-    {
-      "id": 2960,
-      "name": "CND Payment search",
-      "url": "/collection-services/payments/cnd-service/_search",
-      "displayName": "CND Payment search",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2961,
-      "name": "CND_VENDOR_LOGIN",
-      "url": "cnd-ui-card",
-      "displayName": "Vendor Login",
-      "orderNumber": 3,
-      "parentModule": "CND",
-      "enabled": true,
-      "serviceCode": "CND",
-      "code": "null",
-      "path": "",
-      "navigationURL": "/cnd-ui/citizen/cnd/cnd-vendor",
-      "leftIcon": "",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "cnd-ui-links",
-      "sidebarURL": "/cnd-ui/citizen/cnd-home"
     }
-    ]
+
+  ]
 }
