@@ -3,7 +3,7 @@
   "moduleName": "tenant",
   "assessmentconfig": [
     {
-      "tenant": "pg.cityb",
+      "tenant": "pg.mcd",
       "enabled": true,
       "financialyear": "2021-22",
       "isRented": true

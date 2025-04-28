@@ -9,7 +9,7 @@
     },
     {
       "code": "FS_CITYB_01",
-      "baseTenantId": "pg.cityb",
+      "baseTenantId": "pg.mcd",
       "active": true
     },
     {
