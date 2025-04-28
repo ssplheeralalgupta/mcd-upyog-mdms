@@ -13,14 +13,14 @@
             "tenantId": "pg.citya"
         },
         {
-            "cityName": "City B",
+            "cityName": "MCD",
             "locale": "in_en",
-            "tenantId": "pg.cityb"
+            "tenantId": "pg.mcd"
         },
         {
             "cityName": "शहर ब",
             "locale": "in_hi",
-            "tenantId": "pg.cityb"
+            "tenantId": "pg.mcd"
         },
         {
             "cityName": "City C",
