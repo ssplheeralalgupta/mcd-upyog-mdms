@@ -652,17 +652,17 @@
       "name": "Sewerage Report Viewer",
       "description": "Sewerage Connection User that can view reports"
     },
-	{
+    {
       "code": "PT_REPORT_VIEWER",
       "name": "PT Report Viewer",
       "description": "PT User that can view tabular reports"
     },
-	{
+    {
       "code": "PGR_REPORT_VIEWER",
       "name": "PGR Report Viewer",
       "description": "PGR User that can view tabular reports"
     },
-	{
+    {
       "code": "MCOLLECT_REPORT_VIEWER",
       "name": "MCollect Report Viewer",
       "description": "MCollect User that can view tabular reports"
@@ -806,6 +806,11 @@
       "code": "VENDOR",
       "name": "VENDOR",
       "description": "Vendor Employee"
+    },
+    {
+      "code": "WT_CEMP",
+      "name": "Water Tanker Counter Employee",
+      "description": "Water Tanker Counter Employee"
     }
   ]
 }
