@@ -141,45 +141,69 @@
       "active": true
     },
     {
+      "code": "DESIG_24",
       "name": "Deputy Controller Finance and Accounts",
       "description": "Deputy Controller Finance and Accounts",
-      "code": "DESIG_1001",
       "active": true
     },
-   {
+    {
+      "code": "DESIG_25",
       "name": "Accountant",
       "description": "Accountant",
-      "code": "DESIG_58",
       "active": true
     },
-   {
-      "code": "DESIG_24",
+    {
+      "code": "DESIG_26",
       "name": "Assistant Commissioner",
       "description": "Assistant Commissioner",
       "active": true
-    },    
+    },
     {
+      "code": "DESIG_27",
       "name": "Superintendent",
       "description": "Superintendent",
-      "code": "DESIG_47",
       "active": true
     },
     {
+      "code": "DESIG_28",
       "name": "Accounts Officer",
       "description": "Accounts Officer",
-      "code": "AO",
       "active": true
     },
     {
+      "code": "DESIG_29",
+      "name": "Assistant Accounts Officer",
+      "description": "Assistant Accounts Officer",
+      "active": true
+    },
+    {
+      "code": "DESIG_30",
       "name": "Commissioner",
       "description": "Commissioner",
-      "code": "COMM",
       "active": true
     },
     {
+      "code": "DESIG_31",
+      "name": "JSA",
+      "description": "JSA",
+      "active": true
+    },
+    {
+      "code": "DESIG_32",
+      "name": "ASO",
+      "description": "ASO",
+      "active": true
+    },
+    {
+      "code": "DESIG_33",
+      "name": "JAO",
+      "description": "JAO",
+      "active": true
+    },
+    {
+      "code": "DESIG_34",
       "name": "FSM Executive",
       "description": "FSM Executive",
-      "code": "DESIG_200",
       "active": true
     }
   ]
