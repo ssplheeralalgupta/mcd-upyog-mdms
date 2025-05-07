@@ -30708,6 +30708,48 @@
         "actionid": 2911,
         "actioncode": "",
         "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2912,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2912,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2913,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2913,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	  {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2914,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     {
+      "rolecode": "EGF_MASTER_ADMIN",
+      "actionid": 2914,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2914,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
