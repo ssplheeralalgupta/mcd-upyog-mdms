@@ -176,6 +176,16 @@
       "name": "Vigilance",
       "code": "DEPT_VIG",
       "active": true
+    },
+    {
+      "name": "Accounts Department",
+      "code": "DEPT_AD",
+      "active": true
+    },
+    {
+      "name": "Internal Audit",
+      "code": "DEPT_IA",
+      "active": true
     }
   ]
 }
