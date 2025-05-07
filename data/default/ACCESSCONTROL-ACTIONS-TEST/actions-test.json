@@ -10753,6 +10753,33 @@
       "serviceCode": "Employee",
       "code": "null",
       "path": "Employee Management.Employee Masters.Employee.SearchEmployee"
+    },{
+      "id": 1536,
+      "name": "Cash Flow",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "Cash Flow",
+      "orderNumber": 16,
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Expenditure Accounting.Cash Flow",
+      "navigationURL": "services/EGF/report/cashFlowReport-generateCashFlowReport.action"
+    },
+	  {
+      "id": 1537,
+      "name": "Receipt Payment",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "Receipt & Payment",
+      "orderNumber": 17,
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Expenditure Accounting.Receipt Payment",
+      "navigationURL": "services/EGF/report/receiptPaymentReport-newForm.action"
     }
   ]
 }
