@@ -4,187 +4,187 @@
   "Department": [
     {
       "name": "Advertisement",
-      "code": "DEPT_ADV",
+      "code": "DEPT_01",
       "active": true
     },
     {
       "name": "Architecture Department",
-      "code": "DEPT_ARCH",
+      "code": "DEPT_02",
       "active": true
     },
     {
       "name": "Assessment And Collection Department",
-      "code": "DEPT_ACD",
+      "code": "DEPT_03",
       "active": true
     },
     {
       "name": "Ayush Department",
-      "code": "DEPT_AYUSH",
+      "code": "DEPT_04",
       "active": true
     },
     {
       "name": "Building Department",
-      "code": "DEPT_BLDG",
+      "code": "DEPT_05",
       "active": true
     },
     {
       "name": "Central Establishment",
-      "code": "DEPT_CE",
+      "code": "DEPT_06",
       "active": true
     },
     {
       "name": "Committee And Corporation",
-      "code": "DEPT_CC",
+      "code": "DEPT_07",
       "active": true
     },
     {
       "name": "Community Services",
-      "code": "DEPT_CS",
+      "code": "DEPT_08",
       "active": true
     },
     {
       "name": "Department Of Environmental Management",
-      "code": "DEPT_DEM",
+      "code": "DEPT_09",
       "active": true
     },
     {
       "name": "Directorate Of Inquiry",
-      "code": "DEPT_DOI",
+      "code": "DEPT_10",
       "active": true
     },
     {
       "name": "Directorate Of Press And Information",
-      "code": "DEPT_DPI",
+      "code": "DEPT_11",
       "active": true
     },
     {
       "name": "Education",
-      "code": "DEPT_EDU",
+      "code": "DEPT_12",
       "active": true
     },
     {
       "name": "Election Department",
-      "code": "DEPT_ELECT",
+      "code": "DEPT_13",
       "active": true
     },
     {
       "name": "Electrical And Mechanical Department",
-      "code": "DEPT_EMD",
+      "code": "DEPT_14",
       "active": true
     },
     {
       "name": "Engineering Department",
-      "code": "DEPT_ENGG",
+      "code": "DEPT_15",
       "active": true
     },
     {
       "name": "Factory License",
-      "code": "DEPT_FL",
+      "code": "DEPT_16",
       "active": true
     },
     {
       "name": "Finance Department",
-      "code": "DEPT_FIN",
+      "code": "DEPT_17",
       "active": true
     },
     {
       "name": "Hackney Carriage",
-      "code": "DEPT_HC",
+      "code": "DEPT_18",
       "active": true
     },
     {
       "name": "Horticulture Department",
-      "code": "DEPT_HORT",
+      "code": "DEPT_19",
       "active": true
     },
     {
       "name": "Hospital Administration",
-      "code": "DEPT_HA",
+      "code": "DEPT_20",
       "active": true
     },
     {
       "name": "Information Technology",
-      "code": "DEPT_IT",
+      "code": "DEPT_21",
       "active": true
     },
     {
       "name": "Labour Welfare Department",
-      "code": "DEPT_LWD",
+      "code": "DEPT_22",
       "active": true
     },
     {
       "name": "Land And Estate",
-      "code": "DEPT_LE",
+      "code": "DEPT_23",
       "active": true
     },
     {
       "name": "Language Department",
-      "code": "DEPT_LANG",
+      "code": "DEPT_24",
       "active": true
     },
     {
       "name": "Law Department",
-      "code": "DEPT_LAW",
+      "code": "DEPT_25",
       "active": true
     },
     {
       "name": "Licensing Department",
-      "code": "DEPT_LIC",
+      "code": "DEPT_26",
       "active": true
     },
     {
       "name": "Municipal Secretary Office",
-      "code": "DEPT_MSO",
+      "code": "DEPT_27",
       "active": true
     },
     {
       "name": "Organization And Method Department",
-      "code": "DEPT_OMD",
+      "code": "DEPT_28",
       "active": true
     },
     {
       "name": "Public Health Department",
-      "code": "DEPT_PHD",
+      "code": "DEPT_29",
       "active": true
     },
     {
       "name": "Remunerative Project Cell",
-      "code": "DEPT_RPC",
+      "code": "DEPT_30",
       "active": true
     },
     {
       "name": "Statutory Audit Department",
-      "code": "DEPT_SAD",
+      "code": "DEPT_31",
       "active": true
     },
     {
       "name": "Toll Tax",
-      "code": "DEPT_TT",
+      "code": "DEPT_32",
       "active": true
     },
     {
       "name": "Town Planning",
-      "code": "DEPT_TP",
+      "code": "DEPT_33",
       "active": true
     },
     {
       "name": "Veterinary",
-      "code": "DEPT_VET",
+      "code": "DEPT_34",
       "active": true
     },
     {
       "name": "Vigilance",
-      "code": "DEPT_VIG",
+      "code": "DEPT_35",
       "active": true
     },
     {
       "name": "Accounts Department",
-      "code": "DEPT_AD",
+      "code": "DEPT_36",
       "active": true
     },
     {
       "name": "Internal Audit",
-      "code": "DEPT_IA",
+      "code": "DEPT_37",
       "active": true
     }
   ]
