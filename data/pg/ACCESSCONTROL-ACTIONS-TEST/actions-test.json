@@ -19525,6 +19525,46 @@
       "serviceCode": "asset-services",
       "code": "null",
       "path": ""
+    },{
+      "id": 2912,
+      "name": "Cash Flow",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "Cash Flow",
+      "orderNumber": 16,
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Expenditure Accounting.Cash Flow",
+      "navigationURL": "services/EGF/report/cashFlowReport-generateCashFlowReport.action"
+    },
+	  {
+      "id": 2913,
+      "name": "Receipt Payment",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "Receipt Payment",
+      "orderNumber": 17,
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Expenditure Accounting.Receipt Payment",
+      "navigationURL": "services/EGF/report/receiptPaymentReport-newForm.action"
+    },
+	  {
+      "id": 2914,
+      "name": "Remittance Advice",
+      "url": "url",
+      "displayName": "Remittance Advice",
+      "orderNumber": 8,
+      "enabled": true,
+      "serviceCode": "FinanceReport",
+      "code": "null",
+      "navigationURL": "services/EGF/report/remittanceAdvice-Report.action",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Report Generation.Deduction Reports.Remittance Advice "
     }
   ]
 }
