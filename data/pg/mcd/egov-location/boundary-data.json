@@ -537,6 +537,154 @@
             ]
           },
           {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 13,
+            "name": "Girdhari Lal Maternity Hospital",
+            "localname": "Girdhari Lal Maternity Hospital",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "GLMH",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [143001],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 13,
+            "name": "Kasturba Hospital",
+            "localname": "Kasturba Hospital",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "KH",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [143001],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 13,
+            "name": "RBTB  Hospital",
+            "localname": "RBTB Hospital",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "RBTBH",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [143001],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 13,
+            "name": "Hindu Rao Medical College Hospital",
+            "localname": "Hindu Rao Medical College Hospital",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "HRMCH",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [143001],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "id": 13,
             "boundaryNum": 1,
             "name": "HQ",
@@ -1056,6 +1204,154 @@
             "latitude": null,
             "label": "Zone",
             "code": "SDH",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [143001],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 13,
+            "name": "Girdhari Lal Maternity Hospital",
+            "localname": "Girdhari Lal Maternity Hospital",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "GLMH",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [143001],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 13,
+            "name": "Kasturba Hospital",
+            "localname": "Kasturba Hospital",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "KH",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [143001],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 13,
+            "name": "RBTB  Hospital",
+            "localname": "RBTB Hospital",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "RBTBH",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [143001],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 13,
+            "name": "Hindu Rao Medical College Hospital",
+            "localname": "Hindu Rao Medical College Hospital",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "HRMCH",
             "children": [
               {
                 "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
