@@ -186,6 +186,106 @@
       "name": "Internal Audit",
       "code": "DEPT_37",
       "active": true
+    },
+    {
+      "name": "CAMO",
+      "code": "DEPT_38",
+      "active": true
+    },
+    {
+      "name": "CSD",
+      "code": "DEPT_39",
+      "active": true
+    },
+    {
+      "name": "DEMS",
+      "code": "DEPT_40",
+      "active": true
+    },
+    {
+      "name": "DHO",
+      "code": "DEPT_41",
+      "active": true
+    },
+    {
+      "name": "General Branch",
+      "code": "DEPT_42",
+      "active": true
+    },
+    {
+      "name": "A&C",
+      "code": "DEPT_43",
+      "active": true
+    },
+    {
+      "name": "EE",
+      "code": "DEPT_44",
+      "active": true
+    },
+    {
+      "name": "Project",
+      "code": "DEPT_45",
+      "active": true
+    },
+    {
+      "name": "E&M",
+      "code": "DEPT_46",
+      "active": true
+    },
+    {
+      "name": "Division M-I",
+      "code": "DEPT_47",
+      "active": true
+    },
+    {
+      "name": "Auto",
+      "code": "DEPT_48",
+      "active": true
+    },
+    {
+      "name": "CZ Establishment",
+      "code": "DEPT_49,",
+      "active": true
+    },
+    {
+      "name": "DDE",
+      "code": "DEPT_50",
+      "active": true
+    },
+    {
+      "name": "EMS",
+      "code": "DEPT_51",
+      "active": true
+    },
+    {
+      "name": "SFL Ghazipur",
+      "code": "DEPT_52",
+      "active": true
+    },
+    {
+      "name": "Statotory Audit",
+      "code": "DEPT_53",
+      "active": true
+    },
+    {
+      "name": "CED",
+      "code": "DEPT_54",
+      "active": true
+    },
+    {
+      "name": "Mata Gujri Hospital",
+      "code": "DEPT_55",
+      "active": true
+    },
+    {
+      "name": "Medical College",
+      "code": "DEPT_56",
+      "active": true
+    },
+    {
+      "name": "RBTB Hospital",
+      "code": "DEPT_57",
+      "active": true
     }
   ]
 }
