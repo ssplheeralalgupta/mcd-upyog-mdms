@@ -1,0 +1,23 @@
+{
+  "tenantId": "pg",
+  "moduleName": "common-masters",
+  "DepartmentDesignationMapping": [
+    {
+      "departmentCode": "DEPT_2", 
+      "designationCodes": ["DESIG_01", "DESIG_02", "DESIG_03", "DESIG_04"]
+    },
+    {
+      "departmentCode": "DEPT_5",
+      "designationCodes": ["DESIG_22"]
+    },
+    {
+      "departmentCode": "DEPT_3",  
+      "designationCodes": ["DESIG_13", "DESIG_14", "DESIG_15", "DESIG_16", "DESIG_17"]
+    },
+    {
+      "departmentCode": "DEPT_1", 
+      "designationCodes": ["DESIG_58", "AO", "DESIG_1001"]
+    }
+    
+  ]
+}
