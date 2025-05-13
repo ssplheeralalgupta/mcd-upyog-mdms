@@ -16,11 +16,11 @@
     },
     {
       "departmentCode": "DEPT_1", 
-      "designationCodes": ["DESIG_58", "AO", "DESIG_1001"]
+      "designationCodes": ["DESIG_18" ]
     },
     {
       "departmentCode": "DEPT_ADV", 
-      "designationCodes": ["DESIG_25", "AO", "DESIG_1001"]     
+      "designationCodes": ["DESIG_25","DESIG_21"]     
     }
   ]
 }
