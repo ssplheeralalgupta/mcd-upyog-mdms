@@ -19565,6 +19565,20 @@
       "navigationURL": "services/EGF/report/remittanceAdvice-Report.action",
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Report Generation.Deduction Reports.Remittance Advice "
+    },
+    {
+      "id": 2915,
+      "name": "Inbox",
+      "navigationURL": "services/EGF/inbox",
+      "url": "url",
+      "parentModule": "EGF",
+      "displayName": "Inbox",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "FinanceInbox",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Inbox"
     }
   ]
 }
