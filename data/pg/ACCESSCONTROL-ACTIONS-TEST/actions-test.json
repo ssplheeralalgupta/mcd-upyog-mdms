@@ -1098,7 +1098,7 @@
       "displayName": "Create Fund Source",
       "orderNumber": 1,
       "parentModule": "238",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "FundSource_Master",
       "code": "null",
       "path": "Financials.Financials_Masters.FundSource_Master.createFundSource_Master"
@@ -1110,7 +1110,7 @@
       "displayName": "Modify Fund Source",
       "orderNumber": 2,
       "parentModule": "238",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "FundSource_Master",
       "code": "null",
       "path": "Financials.Financials_Masters.FundSource_Master.updateFundSource_Master"
@@ -1122,7 +1122,7 @@
       "displayName": "Search Fund Source",
       "orderNumber": 3,
       "parentModule": "238",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "FundSource_Master",
       "code": "null",
       "path": "Financials.Financials_Masters.FundSource_Master.searchFundSource_Master"
@@ -19579,6 +19579,42 @@
       "code": "null",
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Inbox"
+    },
+    {
+      "id": 2916,
+      "name": "Create Fund Source",
+      "url": "services/EGF/fundsource/_create",
+      "displayName": "Create Fund Source",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "path": "Finance.Masters.Fund Source.Create Fund Source"
+    },
+    {
+      "id": 2917,
+      "name": "Modify Fund Source",
+      "url": "services/EGF/fundsource/_update",
+      "displayName": "Modify Fund Source",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "path": "Finance.Masters.Fund Source.Modify Fund Source"
+    },
+    {
+      "id": 2918,
+      "name": "View Fund Source",
+      "url": "services/EGF/fundsource/_search",
+      "displayName": "View Fund Source",
+      "orderNumber": 3,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "path": "Finance.Masters.Fund Source.View Fund Source"
     }
   ]
 }
