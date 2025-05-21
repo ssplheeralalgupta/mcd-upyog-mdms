@@ -1098,7 +1098,7 @@
       "displayName": "Create Fund Source",
       "orderNumber": 1,
       "parentModule": "238",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "FundSource_Master",
       "code": "null",
       "path": "Financials.Financials_Masters.FundSource_Master.createFundSource_Master"
@@ -1110,7 +1110,7 @@
       "displayName": "Modify Fund Source",
       "orderNumber": 2,
       "parentModule": "238",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "FundSource_Master",
       "code": "null",
       "path": "Financials.Financials_Masters.FundSource_Master.updateFundSource_Master"
@@ -1122,7 +1122,7 @@
       "displayName": "Search Fund Source",
       "orderNumber": 3,
       "parentModule": "238",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "FundSource_Master",
       "code": "null",
       "path": "Financials.Financials_Masters.FundSource_Master.searchFundSource_Master"
