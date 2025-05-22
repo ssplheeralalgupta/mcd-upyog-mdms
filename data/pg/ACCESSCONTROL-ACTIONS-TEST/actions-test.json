@@ -19591,32 +19591,35 @@
       "enabled": true,
       "serviceCode": "FinanceMaster",
       "code": "null",
+      "leftIcon": "editor:insert-chart",
       "path": "Finance.Masters.Fund Source.Create Fund Source"
     },
     {
       "id": 2917,
       "name": "Modify Fund Source",
-      "navigationURL": "services/EGF/fundsource/_update",
+      "navigationURL": "services/EGF/fundsource/search/edit",
       "url": "url",
       "displayName": "Modify Fund Source",
-      "orderNumber": 2,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "FinanceMaster",
-      "code": "null",
-      "path": "Finance.Masters.Fund Source.Modify Fund Source"
-    },
-    {
-      "id": 2918,
-      "name": "View Fund Source",
-      "navigationURL": "services/EGF/fundsource/_search",
-      "url": "url",
-      "displayName": "View Fund Source",
       "orderNumber": 3,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "FinanceMaster",
       "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Masters.Fund Source.Modify Fund Source"
+    },
+    {
+      "id": 2918,
+      "name": "View Fund Source",
+      "navigationURL": "services/EGF/fundsource/search/view",
+      "url": "url",
+      "displayName": "View Fund Source",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
       "path": "Finance.Masters.Fund Source.View Fund Source"
     }
   ]
