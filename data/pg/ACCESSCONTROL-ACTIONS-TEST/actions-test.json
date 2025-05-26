@@ -19621,6 +19621,17 @@
       "code": "null",
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Masters.Fund Source.View Fund Source"
+    },
+    {
+      "id": 2919,
+      "name": "Home Page",
+      "url": "/home",
+      "displayName": "Home Page",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "home",
+      "code": "null",
+      "path": ""
     }
   ]
 }
