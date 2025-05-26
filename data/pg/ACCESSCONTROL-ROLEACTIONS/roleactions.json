@@ -30834,6 +30834,12 @@
       "actionid": 2918,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2919,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
