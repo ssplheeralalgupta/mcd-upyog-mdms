@@ -1,7 +1,7 @@
 {
   "tenantId": "pg",
   "moduleName": "common-masters",
-  "Designation": [
+  "DesignationWithAmount": [
     {
       "code": "DESIG_01",
       "name": "Superintending Engineer ( B&R)",
