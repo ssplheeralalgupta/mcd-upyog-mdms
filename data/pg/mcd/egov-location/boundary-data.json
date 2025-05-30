@@ -21,43 +21,6 @@
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
             "boundaryNum": 1,
-            "name": "MCD HQ",
-            "localname": "MCD HQ",
-            "longitude": null,
-            "latitude": null,
-            "label": "Zone",
-            "code": "HQZ",
-            "children": [
-              {
-                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
-                "boundaryNum": 1,
-                "name": "WARD_1",
-                "localname": "WARD_1",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "WARD32",
-                "children": [
-                  {
-                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
-                    "boundaryNum": 1,
-                    "name": "Main Road Abadpura",
-                    "localname": "Main Road Abadpura",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "JLC476",
-                    "pincode": [143001],
-                    "area": "Area1",
-                    "children": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
-            "boundaryNum": 2,
             "name": "Central Zone",
             "localname": "Central Zone",
             "longitude": null,
@@ -94,7 +57,7 @@
           },
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
-            "boundaryNum": 3,
+            "boundaryNum": 2,
             "name": "City-SP Zone",
             "localname": "City-SP Zone",
             "longitude": null,
@@ -131,7 +94,7 @@
           },
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
-            "boundaryNum": 4,
+            "boundaryNum": 3,
             "name": "Civil Lines Zone",
             "localname": "Civil lines Zone",
             "longitude": null,
@@ -168,7 +131,7 @@
           },
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
-            "boundaryNum": 5,
+            "boundaryNum": 4,
             "name": "Karol Bagh",
             "localname": "Karol Bagh",
             "longitude": null,
@@ -205,7 +168,7 @@
           },
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
-            "boundaryNum": 6,
+            "boundaryNum": 5,
             "name": "Keshavpuram",
             "localname": "Keshavpuram",
             "longitude": null,
@@ -242,7 +205,7 @@
           },
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
-            "boundaryNum": 7,
+            "boundaryNum": 6,
             "name": "Najafgarh Zone",
             "localname": "Najafgarh Zone",
             "longitude": null,
@@ -279,7 +242,7 @@
           },
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
-            "boundaryNum": 8,
+            "boundaryNum": 7,
             "name": "Narela Zone",
             "localname": "Narela Zone",
             "longitude": null,
@@ -316,7 +279,7 @@
           },
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
-            "boundaryNum": 9,
+            "boundaryNum": 8,
             "name": "North Shahdara Zone",
             "localname": "North Shahdara Zone",
             "longitude": null,
@@ -353,7 +316,7 @@
           },
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
-            "boundaryNum": 10,
+            "boundaryNum": 9,
             "name": "Rohini Zone",
             "localname": "Rohini Zone",
             "longitude": null,
@@ -390,7 +353,7 @@
           },
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
-            "boundaryNum": 11,
+            "boundaryNum": 10,
             "name": "South Shahdara Zone",
             "localname": "South Shahdara Zone",
             "longitude": null,
@@ -427,7 +390,7 @@
           },
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
-            "boundaryNum": 12,
+            "boundaryNum": 11,
             "name": "South Zone",
             "localname": "South Zone",
             "longitude": null,
@@ -464,7 +427,7 @@
           },
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
-            "boundaryNum": 13,
+            "boundaryNum": 12,
             "name": "West Zone",
             "localname": "West Zone",
             "longitude": null,
@@ -502,6 +465,56 @@
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
             "boundaryNum": 13,
+            "name": "HQ",
+            "localname": "HQ",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "HQZ",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "Dr. S.P. M. Civic Center",
+                "localname": "Civic Center",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARDHQ1",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "A Block, Dr. S.P. M. Civic Center, Minto Road, Ajmeri Gate, New Delhi",
+                    "localname": "A Block",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "WHQ1L001",
+                    "pincode": [110002],
+                    "area": "Area1",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "E1 Block, Dr. S.P. M. Civic Center, Minto Road, Ajmeri Gate, New Delhi",
+                    "localname": "E1 Block",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "WHQ1L002",
+                    "pincode": [110002],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 14,
             "name": "Swami Dayanand Hospital",
             "localname": "Swami Dayanand Hospital",
             "longitude": null,
@@ -538,7 +551,7 @@
           },
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
-            "boundaryNum": 13,
+            "boundaryNum": 15,
             "name": "Girdhari Lal Maternity Hospital",
             "localname": "Girdhari Lal Maternity Hospital",
             "longitude": null,
@@ -575,7 +588,7 @@
           },
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
-            "boundaryNum": 13,
+            "boundaryNum": 16,
             "name": "Kasturba Hospital",
             "localname": "Kasturba Hospital",
             "longitude": null,
@@ -612,7 +625,7 @@
           },
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
-            "boundaryNum": 13,
+            "boundaryNum": 17,
             "name": "RBTB  Hospital",
             "localname": "RBTB Hospital",
             "longitude": null,
@@ -649,7 +662,7 @@
           },
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
-            "boundaryNum": 13,
+            "boundaryNum": 18,
             "name": "Hindu Rao Medical College Hospital",
             "localname": "Hindu Rao Medical College Hospital",
             "longitude": null,
@@ -686,7 +699,7 @@
           },
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
-            "boundaryNum": 13,
+            "boundaryNum": 19,
             "name": "Mata Gujri Hospital",
             "localname": "Mata Gujri Hospital",
             "longitude": null,
@@ -720,17 +733,6 @@
                 ]
               }
             ]
-          },
-          {
-            "id": 13,
-            "boundaryNum": 1,
-            "name": "HQ",
-            "localname": "HQ",
-            "longitude": null,
-            "latitude": null,
-            "label": "HQ",
-            "code": "OTH1",
-            "children": []
           }
         ]
       }
