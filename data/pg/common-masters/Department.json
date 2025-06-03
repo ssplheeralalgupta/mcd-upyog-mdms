@@ -286,6 +286,11 @@
       "name": "RBTB Hospital",
       "code": "DEPT_57",
       "active": true
+    },
+    {
+      "name": "GPF",
+      "code": "DEPT_58",
+      "active": true
     }
   ]
 }
