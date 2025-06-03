@@ -19632,6 +19632,48 @@
       "serviceCode": "home",
       "code": "null",
       "path": ""
+    },
+{
+      "id": 2920,
+      "name": "Create Vendor",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "Create Vendor",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Masters.Vendor.Create Vendor",
+      "navigationURL": "services/EGF/vendor/newform"
+    },
+    {
+      "id": 2921,
+      "name": "View Vendor",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "View Vendor",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Masters.Vendor.View Vendor",
+      "navigationURL": "services/EGF/vendor/search/view"
+    },
+    {
+      "id": 2922,
+      "name": "Modify Vendor",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "Modify Vendor",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Masters.Vendor.Modify Vendor",
+      "navigationURL": "services/EGF/vendor/search/edit"
     }
   ]
 }

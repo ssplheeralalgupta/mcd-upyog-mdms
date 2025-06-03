@@ -30840,6 +30840,42 @@
       "actionid": 2919,
       "actioncode": "",
       "tenantId": "pg"
+    },
+     {
+      "rolecode": "SUPERUSER",
+      "actionid": 2920,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2920,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+   {
+      "rolecode": "SUPERUSER",
+      "actionid": 2921,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2921,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+   {
+      "rolecode": "SUPERUSER",
+      "actionid": 2922,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2922,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
