@@ -19674,6 +19674,20 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Masters.Vendor.Modify Vendor",
       "navigationURL": "services/EGF/vendor/search/edit"
+    },
+    {
+      "id": 2923,
+      "name": "Finance",
+      "url": "url",
+      "displayName": "Finance",
+      "orderNumber": 4,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "Finance",
+      "code": "null",
+      "navigationURL": "/finance-ui/employee",
+      "path": "Finance",
+      "leftIcon": "image:collections-bookmark"
     }
   ]
 }
