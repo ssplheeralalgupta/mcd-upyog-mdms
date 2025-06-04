@@ -291,6 +291,46 @@
       "name": "GPF",
       "code": "DEPT_58",
       "active": true
+    },
+    {
+      "name": "Advance Section",
+      "code": "DEPT_59",
+      "active": true
+    },
+    {
+      "name": "Pension II",
+      "code": "DEPT_60",
+      "active": true
+    },
+    {
+      "name": "Finance Management and Budget",
+      "code": "DEPT_61",
+      "active": true
+    },
+    {
+      "name": "General Insurance Scheme (GIS)",
+      "code": "DEPT_62",
+      "active": true
+    },
+    {
+      "name": "Care Taker",
+      "code": "DEPT_63",
+      "active": true
+    },
+    {
+      "name": "Commissioner Office",
+      "code": "DEPT_64",
+      "active": true
+    },
+    {
+      "name": "Pension I",
+      "code": "DEPT_65",
+      "active": true
+    },
+    {
+      "name": "Printing & Stationery",
+      "code": "DEPT_66",
+      "active": true
     }
   ]
 }
