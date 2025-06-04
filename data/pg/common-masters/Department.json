@@ -331,6 +331,11 @@
       "name": "Printing & Stationery",
       "code": "DEPT_66",
       "active": true
+    },
+    {
+      "name": "Central Licensing & Enforcement Cell",
+      "code": "DEPT_67",
+      "active": true
     }
   ]
 }
