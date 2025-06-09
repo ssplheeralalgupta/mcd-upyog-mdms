@@ -5190,7 +5190,7 @@
       "serviceCode": "FinanceBill",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Expenditure Accounting.Contra Entries.Bank to Bank Transfer"
+      "path": "Finance.Contra.Bank to Bank Transfer"
     },
     {
       "id": 1748,
@@ -19485,7 +19485,7 @@
       "serviceCode": "FinanceBill",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Expenditure Accounting.Contra Entries.Inter Fund Transfer"
+      "path": "Finance.Contra.Inter Fund Transfer"
     },
     {
       "id": 2909,
