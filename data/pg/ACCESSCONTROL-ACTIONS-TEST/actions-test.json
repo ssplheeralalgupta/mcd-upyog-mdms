@@ -3382,7 +3382,7 @@
       "url": "url",
       "parentModule": "EGF",
       "displayName": "Expense Bill",
-      "orderNumber": 2,
+      "orderNumber": 1,
       "enabled": true,
       "serviceCode": "FinanceBill",
       "code": "null",
