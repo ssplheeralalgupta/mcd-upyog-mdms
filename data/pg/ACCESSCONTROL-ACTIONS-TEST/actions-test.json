@@ -19573,9 +19573,9 @@
       "url": "url",
       "parentModule": "EGF",
       "displayName": "Inbox",
-      "orderNumber": 1,
+      "orderNumber": 0,
       "enabled": true,
-      "serviceCode": "FinanceInbox",
+      "serviceCode": "Finance",
       "code": "null",
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Inbox"
