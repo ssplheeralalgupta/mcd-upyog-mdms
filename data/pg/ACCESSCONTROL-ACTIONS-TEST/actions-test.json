@@ -3414,7 +3414,7 @@
       "serviceCode": "FinanceAdmin",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.General.Cancel Voucher",
+      "path": "Finance.Administration.Cancel Voucher",
       "navigationURL": "services/EGF/voucher/cancelVoucher-beforeSearch.action"
     },
     {
@@ -3465,7 +3465,7 @@
       "url": "/services/EGF/eGov_COA.jsp",
       "parentModule": "",
       "displayName": "Chart Of Accounts",
-      "orderNumber": 1,
+      "orderNumber": 2,
       "enabled": true,
       "serviceCode": "FinanceMaster",
       "code": "null",
@@ -3479,7 +3479,7 @@
       "url": "url",
       "parentModule": "",
       "displayName": "Create Detailed Code",
-      "orderNumber": 1,
+      "orderNumber": 2,
       "enabled": true,
       "serviceCode": "FinanceMaster",
       "code": "null",
@@ -3694,7 +3694,7 @@
       "serviceCode": "FinanceGeneral",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.General.View Vouchers",
+      "path": "Finance.Administration.View Vouchers",
       "navigationURL": "services/EGF/voucher/voucherSearch-beforesearch.action"
     },
     {
@@ -5190,7 +5190,7 @@
       "serviceCode": "FinanceBill",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Expenditure Accounting.Contra Entries.Bank to Bank Transfer"
+      "path": "Finance.Contra.Bank to Bank Transfer"
     },
     {
       "id": 1748,
@@ -19485,7 +19485,7 @@
       "serviceCode": "FinanceBill",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Expenditure Accounting.Contra Entries.Inter Fund Transfer"
+      "path": "Finance.Contra.Inter Fund Transfer"
     },
     {
       "id": 2909,
@@ -19573,9 +19573,9 @@
       "url": "url",
       "parentModule": "EGF",
       "displayName": "Inbox",
-      "orderNumber": 1,
+      "orderNumber": 0,
       "enabled": true,
-      "serviceCode": "FinanceInbox",
+      "serviceCode": "Finance",
       "code": "null",
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Inbox"
