@@ -45,6 +45,20 @@
         }
       ]
     },
+     {
+      "module": "Finance2",
+      "code": "Finance2",
+      "active": true,
+      "order":4,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.mcd"
+        }
+      ]
+    },
     {
       "module": "PGR.WHATSAPP",
       "code": "PGR.WHATSAPP",
