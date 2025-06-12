@@ -19688,6 +19688,20 @@
       "navigationURL": "/finance-ui/employee",
       "path": "Finance",
       "leftIcon": "image:collections-bookmark"
+    },
+     {
+      "id": 2924,
+      "name": "Journal Voucher-Create",
+      "url": "url",
+      "parentModule": "rainmaker-finance2",
+      "displayName": "Journal Voucher",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "Finance2",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance2.Journal Voucher",
+      "navigationURL": "/employee/services/EGF/voucher/journalVoucher-newForm.url"
     }
   ]
 }
