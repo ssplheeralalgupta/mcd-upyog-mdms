@@ -19701,7 +19701,7 @@
       "code": "null",
       "leftIcon": "editor:insert-chart",
       "path": "Finance2.Journal Voucher",
-      "navigationURL": "/finance-ui/employee/voucher/journalVoucher"
+      "navigationURL": "/finance-ui/employee/finance/voucher/journalVoucher"
     }
   ]
 }
