@@ -19701,7 +19701,7 @@
       "code": "null",
       "leftIcon": "editor:insert-chart",
       "path": "Finance2.Journal Voucher",
-      "navigationURL": "/employee/services/EGF/voucher/journalVoucher-newForm.url"
+      "navigationURL": "/finance-ui/employee/services/EGF/voucher/journalVoucher-newForm"
     }
   ]
 }
