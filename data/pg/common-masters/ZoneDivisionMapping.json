@@ -1,0 +1,302 @@
+{
+  "tenantId": "pg.mcd",
+  "moduleName": "common-masters",
+  "ZoneDivisionMapping": [
+    {
+      "code": "ENG_CZ",
+      "departmentName": "Engineering Department",
+      "departmentCode": "DEPT_15",
+      "zoneName": "Central Zone",
+      "zoneCode": "CZ",
+      "divisions": [
+        {
+          "divisionName": "M-I",
+          "divisionCode": "1"
+        },
+        {
+          "divisionName": "M-II",
+          "divisionCode": "2"
+        },
+        {
+          "divisionName": "M-III",
+          "divisionCode": "3"
+        },
+        {
+          "divisionName": "Proj-I",
+          "divisionCode": "5"
+        },
+        {
+          "divisionName": "Proj-II",
+          "divisionCode": "6"
+        },
+        {
+          "divisionName": "E&M",
+          "divisionCode": "7"
+        }
+      ]
+    },
+    {
+      "code": "ENG_CSPZ",
+      "departmentName": "Engineering Department",
+      "departmentCode": "DEPT_15",
+      "zoneName": "CITY S P ZONE",
+      "zoneCode": "CSPZ",
+      "divisions": [
+        {
+          "divisionName": "M-I",
+          "divisionCode": "1"
+        },
+        {
+          "divisionName": "M-II",
+          "divisionCode": "2"
+        },
+        {
+          "divisionName": "Proj-I",
+          "divisionCode": "5"
+        }
+      ]
+    },
+    {
+      "code": "CLZ",
+      "departmentName": "Engineering Department",
+      "departmentCode": "DEPT_15",
+      "zoneName": "CIVIL LINE ZONE",
+      "zoneCode": "CLZ",
+      "divisions": [
+        {
+          "divisionName": "M-I",
+          "divisionCode": "1"
+        },
+        {
+          "divisionName": "M-II",
+          "divisionCode": "2"
+        },
+        {
+          "divisionName": "Proj-I",
+          "divisionCode": "5"
+        }
+      ]
+    },
+    {
+      "code": "ENG_KBZ",
+      "departmentName": "Engineering Department",
+      "departmentCode": "DEPT_15",
+      "zoneName": "KAROL BAGH ZONE",
+      "zoneCode": "KBZ",
+      "divisions": [
+        {
+          "divisionName": "M-I",
+          "divisionCode": "1"
+        },
+        {
+          "divisionName": "M-II",
+          "divisionCode": "2"
+        },
+        {
+          "divisionName": "Proj-I",
+          "divisionCode": "5"
+        }
+      ]
+    },
+    {
+      "code": "ENG_KPZ",
+      "departmentName": "Engineering Department",
+      "departmentCode": "DEPT_15",
+      "zoneName": "KESHAVPURAM ZONE",
+      "zoneCode": "KPZ",
+      "divisions": [
+        {
+          "divisionName": "M-I",
+          "divisionCode": "1"
+        },
+        {
+          "divisionName": "M-II",
+          "divisionCode": "2"
+        },
+        {
+          "divisionName": "Proj-I",
+          "divisionCode": "5"
+        }
+      ]
+    },
+    {
+      "code": "ENG_NGZ",
+      "departmentName": "Engineering Department",
+      "departmentCode": "DEPT_15",
+      "zoneName": "NAJAFGARH ZONE",
+      "zoneCode": "NGZ",
+      "divisions": [
+        {
+          "divisionName": "M-I",
+          "divisionCode": "1"
+        },
+        {
+          "divisionName": "M-II",
+          "divisionCode": "2"
+        },
+        {
+          "divisionName": "M-III",
+          "divisionCode": "3"
+        },
+        {
+          "divisionName": "Proj-I",
+          "divisionCode": "5"
+        }
+      ]
+    },
+    {
+      "code": "ENG_NZ",
+      "departmentName": "Engineering Department",
+      "departmentCode": "DEPT_15",
+      "zoneName": "NARELA ZONE",
+      "zoneCode": "NZ",
+      "divisions": [
+        {
+          "divisionName": "M-I",
+          "divisionCode": "1"
+        },
+        {
+          "divisionName": "M-II",
+          "divisionCode": "2"
+        },
+        {
+          "divisionName": "Proj-I",
+          "divisionCode": "5"
+        }
+      ]
+    },
+    {
+      "code": "ENG_SNZ",
+      "departmentName": "Engineering Department",
+      "departmentCode": "DEPT_15",
+      "zoneName": "SHAHDARA NORTH ZONE",
+      "zoneCode": "SNZ",
+      "divisions": [
+        {
+          "divisionName": "M-I",
+          "divisionCode": "1"
+        },
+        {
+          "divisionName": "M-II",
+          "divisionCode": "2"
+        },
+        {
+          "divisionName": "M-III",
+          "divisionCode": "3"
+        },
+        {
+          "divisionName": "M-IV",
+          "divisionCode": "4"
+        },
+        {
+          "divisionName": "Proj-I",
+          "divisionCode": "5"
+        }
+      ]
+    },
+    {
+      "code": "ENG_RZ",
+      "departmentName": "Engineering Department",
+      "departmentCode": "DEPT_15",
+      "zoneName": "ROHINI ZONE",
+      "zoneCode": "RZ",
+      "divisions": [
+        {
+          "divisionName": "M-I",
+          "divisionCode": "1"
+        },
+        {
+          "divisionName": "M-II",
+          "divisionCode": "2"
+        },
+        {
+          "divisionName": "Proj-I",
+          "divisionCode": "5"
+        }
+      ]
+    },
+    {
+      "code": "ENG_SSZ",
+      "departmentName": "Engineering Department",
+      "departmentCode": "DEPT_15",
+      "zoneName": "SHAHDARA SOUTH ZONE",
+      "zoneCode": "SSZ",
+      "divisions": [
+        {
+          "divisionName": "M-I",
+          "divisionCode": "1"
+        },
+        {
+          "divisionName": "M-II",
+          "divisionCode": "2"
+        },
+        {
+          "divisionName": "M-III",
+          "divisionCode": "3"
+        },
+        {
+          "divisionName": "M-IV",
+          "divisionCode": "4"
+        },
+        {
+          "divisionName": "Proj-I",
+          "divisionCode": "5"
+        }
+      ]
+    },
+    {
+      "code": "ENG_SZ",
+      "departmentName": "Engineering Department",
+      "departmentCode": "DEPT_15",
+      "zoneName": "SOUTH ZONE",
+      "zoneCode": "SZ",
+      "divisions": [
+        {
+          "divisionName": "M-I",
+          "divisionCode": "1"
+        },
+        {
+          "divisionName": "M-III",
+          "divisionCode": "3"
+        },
+        {
+          "divisionName": "M-IV",
+          "divisionCode": "4"
+        },
+        {
+          "divisionName": "Proj-I",
+          "divisionCode": "5"
+        }
+      ]
+    },
+    {
+      "code": "ENG_WZ",
+      "departmentName": "Engineering Department",
+      "departmentCode": "DEPT_15",
+      "zoneName": "WEST ZONE",
+      "zoneCode": "WZ",
+      "divisions": [
+        {
+          "divisionName": "M-I",
+          "divisionCode": "1"
+        },
+        {
+          "divisionName": "M-II",
+          "divisionCode": "2"
+        },
+        {
+          "divisionName": "M-III",
+          "divisionCode": "3"
+        },
+        {
+          "divisionName": "M-IV",
+          "divisionCode": "4"
+        },
+        {
+          "divisionName": "Proj-I",
+          "divisionCode": "5"
+        }
+      ]
+    }
+  ]
+}
