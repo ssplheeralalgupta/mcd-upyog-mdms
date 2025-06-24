@@ -60893,33 +60893,6 @@
             "label": "Zone",
             "code": "SDH",
             "children": [
-              {
-                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
-                "boundaryNum": 1,
-                "name": "WARD_12",
-                "localname": "WARD_12",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "WARD32",
-                "children": [
-                  {
-                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
-                    "boundaryNum": 1,
-                    "name": "Main Road Abadpura",
-                    "localname": "Main Road Abadpura",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "JLC476",
-                    "pincode": [
-                      143001
-                    ],
-                    "area": "Area1",
-                    "children": []
-                  }
-                ]
-              }
             ]
           },
           {
@@ -60932,33 +60905,6 @@
             "label": "Zone",
             "code": "GLMH",
             "children": [
-              {
-                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
-                "boundaryNum": 1,
-                "name": "WARD_12",
-                "localname": "WARD_12",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "WARD32",
-                "children": [
-                  {
-                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
-                    "boundaryNum": 1,
-                    "name": "Main Road Abadpura",
-                    "localname": "Main Road Abadpura",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "JLC476",
-                    "pincode": [
-                      143001
-                    ],
-                    "area": "Area1",
-                    "children": []
-                  }
-                ]
-              }
             ]
           },
           {
@@ -60971,33 +60917,6 @@
             "label": "Zone",
             "code": "KH",
             "children": [
-              {
-                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
-                "boundaryNum": 1,
-                "name": "WARD_12",
-                "localname": "WARD_12",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "WARD32",
-                "children": [
-                  {
-                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
-                    "boundaryNum": 1,
-                    "name": "Main Road Abadpura",
-                    "localname": "Main Road Abadpura",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "JLC476",
-                    "pincode": [
-                      143001
-                    ],
-                    "area": "Area1",
-                    "children": []
-                  }
-                ]
-              }
             ]
           },
           {
@@ -61010,33 +60929,6 @@
             "label": "Zone",
             "code": "RBTBH",
             "children": [
-              {
-                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
-                "boundaryNum": 1,
-                "name": "WARD_12",
-                "localname": "WARD_12",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "WARD32",
-                "children": [
-                  {
-                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
-                    "boundaryNum": 1,
-                    "name": "Main Road Abadpura",
-                    "localname": "Main Road Abadpura",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "JLC476",
-                    "pincode": [
-                      143001
-                    ],
-                    "area": "Area1",
-                    "children": []
-                  }
-                ]
-              }
             ]
           },
           {
@@ -61049,33 +60941,6 @@
             "label": "Zone",
             "code": "HRMCH",
             "children": [
-              {
-                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
-                "boundaryNum": 1,
-                "name": "WARD_12",
-                "localname": "WARD_12",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "WARD32",
-                "children": [
-                  {
-                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
-                    "boundaryNum": 1,
-                    "name": "Main Road Abadpura",
-                    "localname": "Main Road Abadpura",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "JLC476",
-                    "pincode": [
-                      143001
-                    ],
-                    "area": "Area1",
-                    "children": []
-                  }
-                ]
-              }
             ]
           },
           {
@@ -61088,33 +60953,6 @@
             "label": "Zone",
             "code": "MGH",
             "children": [
-              {
-                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
-                "boundaryNum": 1,
-                "name": "WARD_12",
-                "localname": "WARD_12",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "WARD32",
-                "children": [
-                  {
-                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
-                    "boundaryNum": 1,
-                    "name": "Main Road Abadpura",
-                    "localname": "Main Road Abadpura",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "JLC476",
-                    "pincode": [
-                      143001
-                    ],
-                    "area": "Area1",
-                    "children": []
-                  }
-                ]
-              }
             ]
           }
         ]
