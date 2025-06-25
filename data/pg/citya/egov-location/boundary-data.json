@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pg.mcd",
+        "code": "pg.citya",
         "children": [
           {
             "id": "2323ddf1-4228-45b4-887c-915d5e974bc2",
@@ -60892,8 +60892,7 @@
             "latitude": null,
             "label": "Zone",
             "code": "SDH",
-            "children": [
-            ]
+            "children": []
           },
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
@@ -60904,8 +60903,7 @@
             "latitude": null,
             "label": "Zone",
             "code": "GLMH",
-            "children": [
-            ]
+            "children": []
           },
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
@@ -60916,8 +60914,7 @@
             "latitude": null,
             "label": "Zone",
             "code": "KH",
-            "children": [
-            ]
+            "children": []
           },
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
@@ -60928,8 +60925,7 @@
             "latitude": null,
             "label": "Zone",
             "code": "RBTBH",
-            "children": [
-            ]
+            "children": []
           },
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
@@ -60940,8 +60936,7 @@
             "latitude": null,
             "label": "Zone",
             "code": "HRMCH",
-            "children": [
-            ]
+            "children": []
           },
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
@@ -60952,8 +60947,7 @@
             "latitude": null,
             "label": "Zone",
             "code": "MGH",
-            "children": [
-            ]
+            "children": []
           }
         ]
       }
@@ -60971,7 +60965,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pg.mcd",
+        "code": "pg.citya",
         "children": [
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
