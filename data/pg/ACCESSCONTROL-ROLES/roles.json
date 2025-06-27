@@ -811,6 +811,11 @@
       "code": "WT_CEMP",
       "name": "Water Tanker Counter Employee",
       "description": "Water Tanker Counter Employee"
+    },
+    {
+      "code": "DETAIL_CODE_APPROVER",
+      "name": "Detail code approver user",
+      "description": "Detail code approver user can approve the detail code creation"
     }
   ]
 }
