@@ -30889,8 +30889,14 @@
         "actioncode": "",
         "tenantId": "pg"
     },
-	    {
+   {
         "rolecode": "DETAIL_CODE_APPROVER",
+        "actionid": 2925,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "EMPLOYEE",
         "actionid": 2925,
         "actioncode": "",
         "tenantId": "pg"
