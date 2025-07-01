@@ -19701,7 +19701,7 @@
       "code": "null",
       "leftIcon": "editor:insert-chart",
       "path": "Finance2.Journal Voucher",
-      "navigationURL": "/finance-ui/employee/finance/voucher/journalVoucher"
+      "navigationURL": "/finance-ui/employee/finance2/voucher/journalVoucher"
     },
    {
       "id": 2925,
@@ -19716,6 +19716,20 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Masters.Chartofaccounts.Detailed Codes.Detailed Code Inbox",
       "navigationURL": "services/EGF/masters/chartOfAccounts-inboxDetailedCode.action"
+    },
+    {
+      "id": 2926,
+      "name": "Sample",
+      "url": "url",
+      "parentModule": "rainmaker-finance2",
+      "displayName": "Sample",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "Finance2",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance2.Sample",
+      "navigationURL": "/finance-ui/employee/finance2/sample"
     }
 	  
   ]
