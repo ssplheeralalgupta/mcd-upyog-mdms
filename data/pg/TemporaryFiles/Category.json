@@ -1,0 +1,51 @@
+{
+  "tenantId": "pg",
+  "moduleName": "temporaryFiles",
+  "contractorCategories": [
+    {
+      "code": "Class A"
+    },
+    {
+      "code": "Class B"
+    },
+    {
+      "code": "Class C"
+    },
+    {
+      "code": "Class D"
+    },
+    {
+      "code": "Class E"
+    },
+    {
+      "code": "Electrical Contractor"
+    },
+    {
+      "code": "Civil Contractor"
+    },
+    {
+      "code": "Mechanical Contractor"
+    },
+    {
+      "code": "Specialized Agency"
+    },
+    {
+      "code": "Labor Contractor"
+    },
+    {
+      "code": "Material Supplier"
+    },
+    {
+      "code": "Turnkey Contractor"
+    },
+    {
+      "code": "Consultant"
+    },
+    {
+      "code": "Vendor"
+    },
+    {
+      "code": "Others"
+    }
+  ]
+}

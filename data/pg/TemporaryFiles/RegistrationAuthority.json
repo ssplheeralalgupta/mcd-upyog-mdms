@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg",
+  "moduleName": "temporaryFiles",
+  "registrationAuthorities": [
+    {
+      "code": "CPWD"
+    },
+    {
+      "code": "PWD"
+    },
+    {
+      "code": "MES"
+    },
+    {
+      "code": "Railways"
+    },
+    {
+      "code": "Municipal Corporation"
+    },
+    {
+      "code": "Rural Development Department"
+    },
+    {
+      "code": "Urban Local Bodies (ULBs)"
+    },
+    {
+      "code": "Water Resources Department"
+    },
+    {
+      "code": "Irrigation Department"
+    },
+    {
+      "code": "NHAI"
+    },
+    {
+      "code": "AAI"
+    },
+    {
+      "code": "Smart City Mission"
+    },
+    {
+      "code": "Zilla Parishad"
+    },
+    {
+      "code": "Housing Board"
+    },
+    {
+      "code": "State Electricity Board"
+    },
+    {
+      "code": "PSUs"
+    },
+    {
+      "code": "Private Registration"
+    },
+    {
+      "code": "Others"
+    }
+  ]
+}
