@@ -178,7 +178,9 @@
       "code": "DESIG_28",
       "name": "Accounts Officer",
       "description": "Accounts Officer",
-      "active": true
+      "active": true,
+      "minamount": 1000001,
+      "maxamount": 5000000
     },
     {
       "code": "DESIG_29",
