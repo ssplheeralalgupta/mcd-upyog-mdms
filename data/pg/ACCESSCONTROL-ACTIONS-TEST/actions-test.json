@@ -19730,6 +19730,20 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance2.Sample",
       "navigationURL": "/finance-ui/employee/finance/sample"
+    },
+    {
+      "id": 2927,
+      "name": "Create Budget Group",
+      "url": "url",
+      "parentModule": "rainmaker-finance2",
+      "displayName": "Create Budget Group",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "Finance2",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance2.Budget and Controls.Budget Group.Create Budget Group",
+      "navigationURL": "/finance-ui/employee/finance2/create-budget-group"
     }
 	  
   ]
