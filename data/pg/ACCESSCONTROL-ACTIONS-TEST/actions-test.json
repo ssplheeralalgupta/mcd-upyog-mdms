@@ -2506,7 +2506,7 @@
     {
       "id": 1428,
       "name": "searchAccountCodePurpose_Master",
-      "url": "/egf-masters/accountcodepurposes/_search",
+      "url": "/egf-master/accountcodepurposes/_search",
       "displayName": "Search Account Code Purpose",
       "orderNumber": 3,
       "parentModule": "230",
