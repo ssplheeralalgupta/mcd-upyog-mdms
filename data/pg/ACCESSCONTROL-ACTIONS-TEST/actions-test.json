@@ -2480,28 +2480,28 @@
     {
       "id": 1426,
       "name": "createAccountCodePurpose_Master",
-      "url": "/egf-masters/accountcodepurposes/_create",
+      "url": "/egf-master/accountcodepurposes/_create",
       "displayName": "Create Account Code Purpose",
       "orderNumber": 1,
       "parentModule": "230",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "Account_Code_Purpose_Master",
       "code": "null",
-      "path": "Finance.Masters.Account_Code_Purpose_Master.createAccountCodePurpose_Master",
+      "path": "Finance.Masters.Account_Code_Purpose_Master.createAccountCodePurpose_Master"
       "leftIcon": "editor:insert-chart"
 	    
     },
     {
       "id": 1427,
       "name": "updateAccountCodePurpose_Master",
-      "url": "/egf-masters/accountcodepurposes/_update",
+      "url": "/egf-master/accountcodepurposes/_update",
       "displayName": "Modify Account Code Purpose",
       "orderNumber": 2,
       "parentModule": "230",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "Account_Code_Purpose_Master",
       "code": "null",
-      "path": "Finance.Masters.Account_Code_Purpose_Master.updateAccountCodePurpose_Master",
+      "path": "Finance.Masters.Account_Code_Purpose_Master.updateAccountCodePurpose_Master"
       "leftIcon": "editor:insert-chart"
     },
     {
@@ -2514,7 +2514,7 @@
       "enabled": true,
       "serviceCode": "Account_Code_Purpose_Master",
       "code": "null",
-      "path": "Finance.Masters.Account_Code_Purpose_Master.searchAccountCodePurpose_Master",
+      "path": "Finance.Masters.Account_Code_Purpose_Master.searchAccountCodePurpose_Master"
       "leftIcon": "editor:insert-chart"
     },
     {
