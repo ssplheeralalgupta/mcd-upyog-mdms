@@ -2514,7 +2514,7 @@
       "enabled": true,
       "serviceCode": "Account_Code_Purpose_Master",
       "code": "null",
-      "path": "Finance.Masters.Account_Code_Purpose_Master.searchAccountCodePurpose_Master"
+      "path": "Finance.Masters.Account_Code_Purpose_Master.searchAccountCodePurpose_Master",
       "leftIcon": "editor:insert-chart"
     },
     {
