@@ -9274,7 +9274,7 @@
       "displayName": "m-Collect",
       "orderNumber": 4,
       "parentModule": "",
-      "enabled": ,
+      "enabled": false,
       "serviceCode": "",
       "code": "",
       "navigationURL": "/digit-ui/employee/mcollect/new-application",
