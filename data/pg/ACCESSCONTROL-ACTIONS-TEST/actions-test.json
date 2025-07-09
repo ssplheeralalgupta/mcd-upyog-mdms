@@ -2487,9 +2487,8 @@
       "enabled": false,
       "serviceCode": "Account_Code_Purpose_Master",
       "code": "null",
-      "path": "Finance.Masters.Account_Code_Purpose_Master.createAccountCodePurpose_Master"
+      "path": "Finance.Masters.Account_Code_Purpose_Master.createAccountCodePurpose_Master",
       "leftIcon": "editor:insert-chart"
-	    
     },
     {
       "id": 1427,
@@ -2501,7 +2500,7 @@
       "enabled": false,
       "serviceCode": "Account_Code_Purpose_Master",
       "code": "null",
-      "path": "Finance.Masters.Account_Code_Purpose_Master.updateAccountCodePurpose_Master"
+      "path": "Finance.Masters.Account_Code_Purpose_Master.updateAccountCodePurpose_Master",
       "leftIcon": "editor:insert-chart"
     },
     {
@@ -2514,7 +2513,7 @@
       "enabled": true,
       "serviceCode": "Account_Code_Purpose_Master",
       "code": "null",
-      "path": "Finance.Masters.Account_Code_Purpose_Master.searchAccountCodePurpose_Master"
+      "path": "Finance.Masters.Account_Code_Purpose_Master.searchAccountCodePurpose_Master",
       "leftIcon": "editor:insert-chart"
     },
     {
