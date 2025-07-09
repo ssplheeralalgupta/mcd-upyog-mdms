@@ -2478,10 +2478,10 @@
       "path": "Administration.Department.View Department"
     },
     {
-      "id": 1426,
+      "id": 1428,
       "name": "createAccountCodePurpose_Master",
-      "url": "/egf-master/accountcodepurposes/_create",
-      "displayName": "Create Account Code Purpose",
+      "url": "/egf-master/accountcodepurposes/_search",
+      "displayName": "Create AC Purpose",
       "orderNumber": 1,
       "parentModule": "230",
       "enabled": true,
@@ -2491,10 +2491,10 @@
       "leftIcon": "editor:insert-chart"
     },
     {
-      "id": 1427,
+      "id": 1428,
       "name": "updateAccountCodePurpose_Master",
-      "url": "/egf-master/accountcodepurposes/_update",
-      "displayName": "Modify Account Code Purpose",
+      "url": "/egf-master/accountcodepurposes/_search",
+      "displayName": "Update AC Purpose",
       "orderNumber": 2,
       "parentModule": "230",
       "enabled": true,
@@ -2507,7 +2507,7 @@
       "id": 1428,
       "name": "searchAccountCodePurpose_Master",
       "url": "/egf-master/accountcodepurposes/_search",
-      "displayName": "Search Account Code Purpose",
+      "displayName": "Search AC Purpose",
       "orderNumber": 3,
       "parentModule": "230",
       "enabled": true,
