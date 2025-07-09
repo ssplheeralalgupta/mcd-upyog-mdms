@@ -1,6 +1,6 @@
 {
   "tenantId": "pg",
-  "moduleName": "temporaryFiles",
+  "moduleName": "FinanceService",
   "contractorCategories": [
     {
       "code": "Class A"
