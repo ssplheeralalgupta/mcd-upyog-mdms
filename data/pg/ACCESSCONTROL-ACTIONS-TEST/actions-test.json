@@ -10311,7 +10311,7 @@
       "displayName": "CurrentBillCancellation",
       "orderNumber": 6,
       "parentModule": "",
-      "enabled": flase,
+      "enabled": false,
       "serviceCode": "BG",
       "code": "null",
       "navigationURL": "bills/billSearch",
