@@ -813,7 +813,7 @@
       "enabled": true,
       "serviceCode": "Account_Code_Purpose_Master",
       "code": "null",
-      "path": "Financials.Financials_Master.Account_Code_Purpose_Master.createAccountCodePurpose_Master"
+      "path": "Financials.Financials_Masters.Account_Code_Purpose_Master.createAccountCodePurpose_Master"
     },
     {
       "id": 641,
@@ -825,7 +825,7 @@
       "enabled": true,
       "serviceCode": "Account_Code_Purpose_Master",
       "code": "null",
-      "path": "Financials.Financials_Master.Account_Code_Purpose_Master.updateAccountCodePurpose_Master"
+      "path": "Financials.Financials_Masters.Account_Code_Purpose_Master.updateAccountCodePurpose_Master"
     },
     {
       "id": 642,
@@ -837,7 +837,7 @@
       "enabled": true,
       "serviceCode": "Account_Code_Purpose_Master",
       "code": "null",
-      "path": "Financials.Financials_Master.Account_Code_Purpose_Master.searchAccountCodePurpose_Master"
+      "path": "Financials.Financials_Masters.Account_Code_Purpose_Master.searchAccountCodePurpose_Master"
     },
     {
       "id": 643,
