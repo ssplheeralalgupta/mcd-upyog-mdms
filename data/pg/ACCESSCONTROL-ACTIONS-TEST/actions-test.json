@@ -810,10 +810,10 @@
       "displayName": "Create Account Code Purpose",
       "orderNumber": 1,
       "parentModule": "230",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "Account_Code_Purpose_Master",
       "code": "null",
-      "path": "Financial_Master.Financials_Master.Account_Code_Purpose_Master.createAccountCodePurpose_Master"
+      "path": "Financials.Financials_Master.Account_Code_Purpose_Master.createAccountCodePurpose_Master"
     },
     {
       "id": 641,
@@ -822,10 +822,10 @@
       "displayName": "Modify Account Code Purpose",
       "orderNumber": 2,
       "parentModule": "230",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "Account_Code_Purpose_Master",
       "code": "null",
-      "path": "Financial_Master.Financials_Master.Account_Code_Purpose_Master.updateAccountCodePurpose_Master"
+      "path": "Financials.Financials_Master.Account_Code_Purpose_Master.updateAccountCodePurpose_Master"
     },
     {
       "id": 642,
@@ -837,7 +837,7 @@
       "enabled": true,
       "serviceCode": "Account_Code_Purpose_Master",
       "code": "null",
-      "path": "Financial_Master.Financials_Master.Account_Code_Purpose_Master.searchAccountCodePurpose_Master"
+      "path": "Financials.Financials_Master.Account_Code_Purpose_Master.searchAccountCodePurpose_Master"
     },
     {
       "id": 643,
@@ -1134,7 +1134,7 @@
       "displayName": "Create Functionary",
       "orderNumber": 1,
       "parentModule": "239",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "Functionary_Master",
       "code": "null",
       "path": "Financials.Financials_Masters.Functionary_Master.createFunctionary_Master"
@@ -1146,7 +1146,7 @@
       "displayName": "Modify Functionary",
       "orderNumber": 2,
       "parentModule": "239",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "Functionary_Master",
       "code": "null",
       "path": "Financials.Financials_Masters.Functionary_Master.updateFunctionary_Master"
@@ -1158,7 +1158,7 @@
       "displayName": "Search Functionary",
       "orderNumber": 3,
       "parentModule": "239",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "Functionary_Master",
       "code": "null",
       "path": "Financials.Financials_Masters.Functionary_Master.searchFunctionary_Master"
