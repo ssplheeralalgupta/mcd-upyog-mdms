@@ -1077,7 +1077,8 @@
       "enabled": true,
       "serviceCode": "Functionary_Master",
       "code": "null",
-      "path": "Finance.Masters.Functionary_Master.createFunctionary_Master"
+      "path": "Finance.Masters.Functionary_Master.createFunctionary_Master",
+      "leftIcon": "editor:insert-chart",
     },
     {
       "id": 668,
@@ -1089,7 +1090,8 @@
       "enabled": true,
       "serviceCode": "Functionary_Master",
       "code": "null",
-      "path": "Finance.Masters.Functionary_Master.updateFunctionary_Master"
+      "path": "Finance.Masters.Functionary_Master.updateFunctionary_Master",
+      "leftIcon": "editor:insert-chart",
     },
     {
       "id": 669,
@@ -1101,7 +1103,8 @@
       "enabled": true,
       "serviceCode": "Functionary_Master",
       "code": "null",
-      "path": "Finance.Masters.Functionary_Master.searchFunctionary_Master"
+      "path": "Finance.Masters.Functionary_Master.searchFunctionary_Master",
+      "leftIcon": "editor:insert-chart",
     },
     {
       "id": 670,
@@ -2484,7 +2487,9 @@
       "enabled": true,
       "serviceCode": "Account_Code_Purpose_Master",
       "code": "null",
-      "path": "Finance.Masters.Account_Code_Purpose_Master.createAccountCodePurpose_Master"
+      "path": "Finance.Masters.Account_Code_Purpose_Master.createAccountCodePurpose_Master",
+      "leftIcon": "editor:insert-chart",
+	    
     },
     {
       "id": 1427,
@@ -2496,7 +2501,8 @@
       "enabled": true,
       "serviceCode": "Account_Code_Purpose_Master",
       "code": "null",
-      "path": "Finance.Masters.Account_Code_Purpose_Master.updateAccountCodePurpose_Master"
+      "path": "Finance.Masters.Account_Code_Purpose_Master.updateAccountCodePurpose_Master",
+      "leftIcon": "editor:insert-chart",
     },
     {
       "id": 1428,
@@ -2509,6 +2515,7 @@
       "serviceCode": "Account_Code_Purpose_Master",
       "code": "null",
       "path": "Finance.Masters.Account_Code_Purpose_Master.searchAccountCodePurpose_Master"
+      "leftIcon": "editor:insert-chart",
     },
     {
       "id": 1429,
