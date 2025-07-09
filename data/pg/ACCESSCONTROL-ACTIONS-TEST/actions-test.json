@@ -10297,7 +10297,7 @@
       "displayName": "BillGenie",
       "orderNumber": 5,
       "parentModule": "",
-      "enabled": FALSE,
+      "enabled": false,
       "serviceCode": "BG",
       "code": "null",
       "navigationURL": "abg/billSearch",
