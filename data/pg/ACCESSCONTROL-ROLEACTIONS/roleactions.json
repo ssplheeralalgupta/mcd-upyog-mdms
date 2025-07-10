@@ -30936,6 +30936,24 @@
       "actionid": 2930,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2931,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2932,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     {
+      "rolecode": "SUPERUSER",
+      "actionid": 2933,
+      "actioncode": "",
+      "tenantId": "pg"
     }
     
     
