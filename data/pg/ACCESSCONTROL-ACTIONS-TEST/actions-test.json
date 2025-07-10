@@ -19716,7 +19716,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Vendor.View Workflow",
+      "path": "Finance.Masters.Workflow.View Workflow",
       "navigationURL": "services/EGF/workflow/search/view"
     },
     {
@@ -19730,7 +19730,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Vendor.Modify Workflow",
+      "path": "Finance.Masters.Workflow.Modify Workflow",
       "navigationURL": "services/EGF/workflow/search/edit"
     },
     {
@@ -19758,7 +19758,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Vendor.View SOP",
+      "path": "Finance.Masters.SOP.View SOP",
       "navigationURL": "services/EGF/sop/search/view"
     },
     {
@@ -19772,7 +19772,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Vendor.Modify SOP",
+      "path": "Finance.Masters.SOP.Modify SOP",
       "navigationURL": "services/EGF/sop/search/edit"
     }
 	  
