@@ -19690,7 +19690,49 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance2.Budget and Controls.Budget Group.Create Budget Group",
       "navigationURL": "/finance-ui/employee/finance2/create-budget-group"
-    }
-	  
+    },
+    {
+      "id": 2928,
+      "name": "Create Workflow",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "Create Workflow",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Masters.Workflow.Create Workflow",
+      "navigationURL": "services/EGF/workflow/create"
+    },
+    {
+      "id": 2929,
+      "name": "View Workflow",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "View Workflow",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Masters.Workflow.View Workflow",
+      "navigationURL": "services/EGF/workflow/view"
+    },
+    {
+      "id": 2930,
+      "name": "MOdify Workflow",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "Modify Workflow",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Masters.Workflow.Modify Workflow",
+      "navigationURL": "services/EGF/workflow/edit"
+    },
+    
   ]
 }
